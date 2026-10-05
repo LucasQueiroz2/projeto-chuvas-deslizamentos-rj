@@ -1,0 +1,961 @@
+﻿ano,mes,data,municipio,regiao_rj,populacao,chuva_mm,temperatura_media,ocorrencias_deslizamento,desalojados,obitos,nivel_risco,indice_solo,umidade
+2015,1,2015-01-01,Rio de Janeiro,Metropolitana,4091571,189.1,24.8,6,64,0,Crítico,0.72,88.2
+2015,1,2015-01-01,Niterói,Metropolitana,5475024,316.2,24.3,5,58,1,Alto,1.0,93.5
+2015,1,2015-01-01,Nova Iguaçu,Baixada,2104552,205.3,25.5,10,108,0,Crítico,0.87,82.2
+2015,1,2015-01-01,Petrópolis,Serrana,4207259,108.8,28.1,3,24,0,Alto,0.5,60.9
+2015,1,2015-01-01,Teresópolis,Serrana,4424517,204.2,26.8,9,85,0,Crítico,0.68,65.0
+2015,1,2015-01-01,Nova Friburgo,Serrana,1618558,298.7,27.4,15,139,2,Crítico,1.0,72.3
+2015,1,2015-01-01,Angra dos Reis,Costa Verde,2724271,221.4,23.0,5,45,0,Alto,0.88,86.4
+2015,1,2015-01-01,Campos dos Goytacazes,Norte Fluminense,4200629,177.1,23.6,4,40,0,Alto,0.76,78.7
+2015,2,2015-02-01,Rio de Janeiro,Metropolitana,5542642,220.9,24.1,6,66,1,Crítico,0.86,74.9
+2015,2,2015-02-01,Niterói,Metropolitana,3323539,184.4,23.9,1,10,0,Médio,0.64,90.5
+2015,2,2015-02-01,Nova Iguaçu,Baixada,229008,168.3,25.4,2,16,0,Médio,0.68,78.8
+2015,2,2015-02-01,Petrópolis,Serrana,3350501,276.1,24.8,13,133,0,Crítico,0.99,68.6
+2015,2,2015-02-01,Teresópolis,Serrana,2011296,356.0,28.4,23,210,2,Crítico,1.0,75.5
+2015,2,2015-02-01,Nova Friburgo,Serrana,2709129,276.6,24.1,14,144,2,Crítico,1.0,82.3
+2015,2,2015-02-01,Angra dos Reis,Costa Verde,1547427,172.2,23.0,7,72,0,Crítico,0.7,71.2
+2015,2,2015-02-01,Campos dos Goytacazes,Norte Fluminense,4613256,155.2,26.0,4,54,1,Alto,0.86,89.7
+2015,3,2015-03-01,Rio de Janeiro,Metropolitana,5933011,188.2,26.4,5,49,0,Alto,0.8,92.3
+2015,3,2015-03-01,Niterói,Metropolitana,1880038,271.4,25.4,8,83,0,Crítico,1.0,72.4
+2015,3,2015-03-01,Nova Iguaçu,Baixada,3985603,195.9,27.6,7,58,1,Crítico,0.89,55.2
+2015,3,2015-03-01,Petrópolis,Serrana,4603557,219.4,25.6,14,136,0,Crítico,1.0,67.9
+2015,3,2015-03-01,Teresópolis,Serrana,4210956,235.9,21.6,14,134,1,Crítico,1.0,66.0
+2015,3,2015-03-01,Nova Friburgo,Serrana,3086615,208.3,25.3,12,122,0,Crítico,0.95,83.7
+2015,3,2015-03-01,Angra dos Reis,Costa Verde,3620532,141.9,22.7,1,9,0,Médio,0.73,75.6
+2015,3,2015-03-01,Campos dos Goytacazes,Norte Fluminense,6155999,183.6,25.1,4,48,1,Alto,0.59,83.2
+2015,4,2015-04-01,Rio de Janeiro,Metropolitana,1167129,45.7,22.7,1,12,0,Médio,0.34,65.4
+2015,4,2015-04-01,Niterói,Metropolitana,432511,83.6,26.1,3,21,1,Alto,0.21,76.9
+2015,4,2015-04-01,Nova Iguaçu,Baixada,3754070,0.0,22.8,0,0,0,Baixo,0.26,63.7
+2015,4,2015-04-01,Petrópolis,Serrana,3709962,205.5,26.4,14,132,0,Crítico,0.83,71.2
+2015,4,2015-04-01,Teresópolis,Serrana,5645148,188.6,23.5,13,136,0,Crítico,0.81,67.3
+2015,4,2015-04-01,Nova Friburgo,Serrana,4178951,0.0,22.0,0,0,0,Baixo,0.09,87.0
+2015,4,2015-04-01,Angra dos Reis,Costa Verde,6033127,54.8,27.5,0,0,0,Baixo,0.66,84.4
+2015,4,2015-04-01,Campos dos Goytacazes,Norte Fluminense,4987881,122.9,27.0,3,30,0,Alto,0.5,70.6
+2015,5,2015-05-01,Rio de Janeiro,Metropolitana,2961404,62.5,23.5,1,10,0,Médio,0.17,79.1
+2015,5,2015-05-01,Niterói,Metropolitana,3832739,99.3,25.1,2,21,0,Médio,0.37,82.7
+2015,5,2015-05-01,Nova Iguaçu,Baixada,1530322,125.9,23.8,6,52,0,Crítico,0.53,91.1
+2015,5,2015-05-01,Petrópolis,Serrana,3940419,205.5,24.7,10,77,0,Crítico,0.88,77.6
+2015,5,2015-05-01,Teresópolis,Serrana,614107,162.4,24.3,9,96,0,Crítico,0.69,66.0
+2015,5,2015-05-01,Nova Friburgo,Serrana,4135371,101.8,26.9,5,44,1,Alto,0.36,88.0
+2015,5,2015-05-01,Angra dos Reis,Costa Verde,1063205,122.8,26.0,1,11,0,Médio,0.87,64.7
+2015,5,2015-05-01,Campos dos Goytacazes,Norte Fluminense,1267201,156.2,19.4,8,80,0,Crítico,0.68,89.8
+2015,6,2015-06-01,Rio de Janeiro,Metropolitana,2177871,132.3,24.6,3,18,0,Alto,0.72,68.1
+2015,6,2015-06-01,Niterói,Metropolitana,5751484,19.6,26.6,0,0,0,Baixo,0.0,86.0
+2015,6,2015-06-01,Nova Iguaçu,Baixada,6399875,106.8,23.9,4,35,0,Alto,0.67,69.7
+2015,6,2015-06-01,Petrópolis,Serrana,3472171,86.8,25.9,2,24,0,Médio,0.35,81.3
+2015,6,2015-06-01,Teresópolis,Serrana,5489130,122.5,23.2,6,42,0,Crítico,0.7,88.7
+2015,6,2015-06-01,Nova Friburgo,Serrana,5799207,0.0,21.3,0,0,0,Baixo,0.09,62.7
+2015,6,2015-06-01,Angra dos Reis,Costa Verde,3072873,83.5,21.5,1,18,0,Médio,0.55,60.9
+2015,6,2015-06-01,Campos dos Goytacazes,Norte Fluminense,457345,19.4,23.8,0,0,0,Baixo,0.05,58.3
+2015,7,2015-07-01,Rio de Janeiro,Metropolitana,1966240,84.2,23.6,1,8,0,Médio,0.38,79.2
+2015,7,2015-07-01,Niterói,Metropolitana,5632137,105.8,25.2,1,11,0,Médio,0.52,72.5
+2015,7,2015-07-01,Nova Iguaçu,Baixada,1006201,24.4,24.5,1,5,1,Médio,0.33,86.8
+2015,7,2015-07-01,Petrópolis,Serrana,2113616,180.8,22.7,8,78,0,Crítico,0.85,74.2
+2015,7,2015-07-01,Teresópolis,Serrana,331465,70.9,30.3,3,31,0,Alto,0.38,73.9
+2015,7,2015-07-01,Nova Friburgo,Serrana,4916219,105.9,25.1,5,39,0,Alto,0.6,86.9
+2015,7,2015-07-01,Angra dos Reis,Costa Verde,3695090,211.3,25.8,6,63,0,Crítico,1.0,81.6
+2015,7,2015-07-01,Campos dos Goytacazes,Norte Fluminense,1261539,168.7,28.8,3,27,0,Alto,0.62,77.7
+2015,8,2015-08-01,Rio de Janeiro,Metropolitana,4536185,79.2,24.0,1,10,0,Médio,0.54,65.1
+2015,8,2015-08-01,Niterói,Metropolitana,3205360,136.7,26.7,3,41,0,Alto,0.58,79.7
+2015,8,2015-08-01,Nova Iguaçu,Baixada,4329474,66.0,23.6,0,0,0,Baixo,0.66,58.3
+2015,8,2015-08-01,Petrópolis,Serrana,4693865,103.3,24.6,6,57,0,Crítico,0.44,92.8
+2015,8,2015-08-01,Teresópolis,Serrana,5279679,78.0,24.1,3,27,0,Alto,0.42,59.3
+2015,8,2015-08-01,Nova Friburgo,Serrana,6438551,80.7,18.8,3,25,0,Alto,0.52,91.9
+2015,8,2015-08-01,Angra dos Reis,Costa Verde,5156761,110.2,24.2,4,50,0,Alto,0.58,62.7
+2015,8,2015-08-01,Campos dos Goytacazes,Norte Fluminense,4687621,145.8,21.9,4,24,0,Alto,0.66,56.9
+2015,9,2015-09-01,Rio de Janeiro,Metropolitana,6217630,152.6,24.9,4,37,0,Alto,0.77,70.8
+2015,9,2015-09-01,Niterói,Metropolitana,3853378,90.2,25.1,1,9,0,Médio,0.42,92.6
+2015,9,2015-09-01,Nova Iguaçu,Baixada,2800688,41.6,20.7,0,0,0,Baixo,0.3,93.2
+2015,9,2015-09-01,Petrópolis,Serrana,6402865,151.6,25.7,11,114,0,Crítico,0.77,88.2
+2015,9,2015-09-01,Teresópolis,Serrana,1353924,94.8,27.9,5,60,0,Alto,0.43,92.0
+2015,9,2015-09-01,Nova Friburgo,Serrana,3994483,152.0,28.3,7,50,0,Crítico,0.8,70.3
+2015,9,2015-09-01,Angra dos Reis,Costa Verde,1147141,93.3,25.5,1,6,1,Médio,0.43,69.6
+2015,9,2015-09-01,Campos dos Goytacazes,Norte Fluminense,6433181,61.1,23.5,0,0,0,Baixo,0.25,90.4
+2015,10,2015-10-01,Rio de Janeiro,Metropolitana,6014718,129.2,27.8,5,60,0,Alto,0.62,92.0
+2015,10,2015-10-01,Niterói,Metropolitana,4035062,4.7,23.5,0,0,0,Baixo,0.17,91.9
+2015,10,2015-10-01,Nova Iguaçu,Baixada,4306987,90.0,23.0,5,54,0,Alto,0.58,91.0
+2015,10,2015-10-01,Petrópolis,Serrana,2717233,150.5,26.4,5,53,0,Alto,0.57,80.6
+2015,10,2015-10-01,Teresópolis,Serrana,3705812,137.7,28.7,7,70,0,Crítico,0.71,82.1
+2015,10,2015-10-01,Nova Friburgo,Serrana,5054534,184.7,23.8,6,58,0,Crítico,0.63,63.8
+2015,10,2015-10-01,Angra dos Reis,Costa Verde,3284581,99.0,27.4,1,11,0,Médio,0.53,84.8
+2015,10,2015-10-01,Campos dos Goytacazes,Norte Fluminense,5917093,26.1,23.9,0,0,0,Baixo,0.0,83.6
+2015,11,2015-11-01,Rio de Janeiro,Metropolitana,5708535,64.9,25.1,3,33,0,Alto,0.37,78.1
+2015,11,2015-11-01,Niterói,Metropolitana,3624947,0.0,24.4,1,13,0,Médio,0.0,60.4
+2015,11,2015-11-01,Nova Iguaçu,Baixada,1969592,47.7,22.2,2,24,0,Médio,0.43,77.3
+2015,11,2015-11-01,Petrópolis,Serrana,619785,142.3,26.2,11,118,1,Crítico,0.86,85.2
+2015,11,2015-11-01,Teresópolis,Serrana,1421004,139.6,27.2,5,49,1,Alto,0.83,65.0
+2015,11,2015-11-01,Nova Friburgo,Serrana,6027553,126.6,26.0,7,65,0,Crítico,0.52,84.8
+2015,11,2015-11-01,Angra dos Reis,Costa Verde,2802298,130.1,24.9,5,62,0,Alto,0.56,58.5
+2015,11,2015-11-01,Campos dos Goytacazes,Norte Fluminense,4071863,83.1,20.7,2,14,0,Médio,0.53,74.0
+2015,12,2015-12-01,Rio de Janeiro,Metropolitana,6485133,216.3,27.3,6,60,1,Crítico,0.93,83.5
+2015,12,2015-12-01,Niterói,Metropolitana,5393338,252.9,29.0,9,89,1,Crítico,1.0,88.7
+2015,12,2015-12-01,Nova Iguaçu,Baixada,793292,115.7,24.2,4,40,0,Alto,0.44,57.5
+2015,12,2015-12-01,Petrópolis,Serrana,1473046,197.1,26.3,14,129,4,Crítico,1.0,80.4
+2015,12,2015-12-01,Teresópolis,Serrana,2757280,394.5,24.3,28,271,1,Crítico,1.0,69.4
+2015,12,2015-12-01,Nova Friburgo,Serrana,5549419,185.8,23.3,14,137,2,Crítico,0.94,90.1
+2015,12,2015-12-01,Angra dos Reis,Costa Verde,1700768,193.5,24.5,2,11,0,Médio,0.89,81.4
+2015,12,2015-12-01,Campos dos Goytacazes,Norte Fluminense,3981903,210.1,25.0,12,153,1,Crítico,0.84,87.0
+2016,1,2016-01-01,Rio de Janeiro,Metropolitana,4177400,188.5,23.0,8,73,0,Crítico,0.73,73.0
+2016,1,2016-01-01,Niterói,Metropolitana,5147599,228.3,25.7,13,109,0,Crítico,0.94,84.6
+2016,1,2016-01-01,Nova Iguaçu,Baixada,2675814,196.4,27.6,6,57,0,Crítico,0.84,91.3
+2016,1,2016-01-01,Petrópolis,Serrana,2499729,110.0,25.1,0,0,0,Baixo,0.48,89.2
+2016,1,2016-01-01,Teresópolis,Serrana,5341853,313.8,21.9,27,267,1,Crítico,1.0,66.1
+2016,1,2016-01-01,Nova Friburgo,Serrana,374475,371.6,26.4,24,240,1,Crítico,1.0,88.0
+2016,1,2016-01-01,Angra dos Reis,Costa Verde,3386324,269.3,28.6,12,120,0,Crítico,0.98,67.7
+2016,1,2016-01-01,Campos dos Goytacazes,Norte Fluminense,4217710,186.5,26.8,4,36,1,Alto,0.64,88.4
+2016,2,2016-02-01,Rio de Janeiro,Metropolitana,6229025,136.1,24.5,8,88,0,Crítico,0.62,72.7
+2016,2,2016-02-01,Niterói,Metropolitana,2732832,223.6,25.5,8,81,1,Crítico,1.0,79.1
+2016,2,2016-02-01,Nova Iguaçu,Baixada,1376086,172.0,24.4,8,72,0,Crítico,1.0,88.6
+2016,2,2016-02-01,Petrópolis,Serrana,565052,260.5,26.6,14,132,0,Crítico,1.0,61.4
+2016,2,2016-02-01,Teresópolis,Serrana,5961720,188.4,26.6,9,85,0,Crítico,0.81,63.8
+2016,2,2016-02-01,Nova Friburgo,Serrana,2795361,202.6,24.6,9,91,1,Crítico,0.83,81.8
+2016,2,2016-02-01,Angra dos Reis,Costa Verde,1146850,229.9,24.5,9,81,0,Crítico,0.89,76.4
+2016,2,2016-02-01,Campos dos Goytacazes,Norte Fluminense,1292442,168.0,22.3,5,62,0,Alto,0.7,85.8
+2016,3,2016-03-01,Rio de Janeiro,Metropolitana,4533507,216.4,22.3,6,66,0,Crítico,0.8,70.6
+2016,3,2016-03-01,Niterói,Metropolitana,5509251,169.7,26.4,3,27,0,Alto,0.78,70.4
+2016,3,2016-03-01,Nova Iguaçu,Baixada,1569444,162.2,26.0,3,36,0,Alto,0.53,55.6
+2016,3,2016-03-01,Petrópolis,Serrana,2072812,150.4,22.6,7,73,1,Crítico,0.83,81.7
+2016,3,2016-03-01,Teresópolis,Serrana,4631219,345.7,22.6,28,286,1,Crítico,1.0,60.9
+2016,3,2016-03-01,Nova Friburgo,Serrana,2774369,174.1,25.8,11,101,1,Crítico,0.9,80.7
+2016,3,2016-03-01,Angra dos Reis,Costa Verde,4708821,232.5,23.9,9,85,0,Crítico,0.99,83.4
+2016,3,2016-03-01,Campos dos Goytacazes,Norte Fluminense,3082087,262.1,26.5,7,77,0,Crítico,1.0,72.8
+2016,4,2016-04-01,Rio de Janeiro,Metropolitana,1109465,55.0,25.2,0,0,0,Baixo,0.17,71.5
+2016,4,2016-04-01,Niterói,Metropolitana,3203493,56.4,24.7,2,11,0,Médio,0.37,89.6
+2016,4,2016-04-01,Nova Iguaçu,Baixada,3490525,69.8,22.6,1,6,0,Médio,0.17,61.6
+2016,4,2016-04-01,Petrópolis,Serrana,4987907,147.9,26.5,4,37,2,Alto,0.72,84.6
+2016,4,2016-04-01,Teresópolis,Serrana,650186,25.8,25.8,2,18,0,Médio,0.3,81.8
+2016,4,2016-04-01,Nova Friburgo,Serrana,6443342,124.8,27.2,4,25,1,Alto,0.62,71.7
+2016,4,2016-04-01,Angra dos Reis,Costa Verde,1147380,7.3,25.1,0,0,0,Baixo,0.15,64.2
+2016,4,2016-04-01,Campos dos Goytacazes,Norte Fluminense,2230920,121.3,23.7,3,34,0,Alto,0.48,68.1
+2016,5,2016-05-01,Rio de Janeiro,Metropolitana,2417340,70.6,25.3,1,7,0,Médio,0.66,91.8
+2016,5,2016-05-01,Niterói,Metropolitana,1253554,189.8,23.9,8,67,1,Crítico,0.97,83.4
+2016,5,2016-05-01,Nova Iguaçu,Baixada,3327074,234.9,24.8,7,56,1,Crítico,1.0,63.0
+2016,5,2016-05-01,Petrópolis,Serrana,4524808,189.2,23.4,14,141,1,Crítico,0.87,93.0
+2016,5,2016-05-01,Teresópolis,Serrana,2653952,128.8,23.6,6,61,0,Crítico,0.71,84.2
+2016,5,2016-05-01,Nova Friburgo,Serrana,206729,161.4,24.6,8,78,0,Crítico,0.83,90.2
+2016,5,2016-05-01,Angra dos Reis,Costa Verde,6249612,73.6,24.8,1,12,0,Médio,0.45,78.4
+2016,5,2016-05-01,Campos dos Goytacazes,Norte Fluminense,1450000,68.4,27.9,1,15,0,Médio,0.45,65.8
+2016,6,2016-06-01,Rio de Janeiro,Metropolitana,376774,194.3,25.6,8,86,0,Crítico,0.69,92.1
+2016,6,2016-06-01,Niterói,Metropolitana,2023210,41.7,27.6,0,0,0,Baixo,0.18,71.1
+2016,6,2016-06-01,Nova Iguaçu,Baixada,3689799,62.4,26.0,0,0,0,Baixo,0.48,64.6
+2016,6,2016-06-01,Petrópolis,Serrana,2519634,78.3,24.1,3,33,0,Alto,0.41,61.3
+2016,6,2016-06-01,Teresópolis,Serrana,2938299,38.6,20.8,2,21,0,Médio,0.28,73.7
+2016,6,2016-06-01,Nova Friburgo,Serrana,921632,41.8,19.9,2,20,0,Médio,0.2,94.7
+2016,6,2016-06-01,Angra dos Reis,Costa Verde,6344524,104.4,25.5,1,10,0,Médio,0.36,64.6
+2016,6,2016-06-01,Campos dos Goytacazes,Norte Fluminense,1822592,72.9,22.7,3,31,0,Alto,0.45,80.1
+2016,7,2016-07-01,Rio de Janeiro,Metropolitana,422923,25.0,24.3,0,0,0,Baixo,0.34,66.8
+2016,7,2016-07-01,Niterói,Metropolitana,2030375,0.0,24.2,1,9,0,Médio,0.13,85.6
+2016,7,2016-07-01,Nova Iguaçu,Baixada,4779514,127.5,28.1,3,29,0,Alto,0.59,94.3
+2016,7,2016-07-01,Petrópolis,Serrana,5165890,143.8,28.0,9,100,0,Crítico,0.7,93.6
+2016,7,2016-07-01,Teresópolis,Serrana,3803600,0.0,26.6,1,6,0,Médio,0.14,62.8
+2016,7,2016-07-01,Nova Friburgo,Serrana,6465890,61.4,23.6,1,13,0,Médio,0.52,79.5
+2016,7,2016-07-01,Angra dos Reis,Costa Verde,6460674,9.0,21.4,0,0,0,Baixo,0.22,84.0
+2016,7,2016-07-01,Campos dos Goytacazes,Norte Fluminense,1317453,30.4,28.8,0,0,0,Baixo,0.32,74.8
+2016,8,2016-08-01,Rio de Janeiro,Metropolitana,4187979,80.7,23.7,5,37,0,Alto,0.53,67.8
+2016,8,2016-08-01,Niterói,Metropolitana,715251,55.0,24.1,3,30,0,Alto,0.35,74.2
+2016,8,2016-08-01,Nova Iguaçu,Baixada,5868185,74.3,27.5,3,27,0,Alto,0.46,60.8
+2016,8,2016-08-01,Petrópolis,Serrana,453805,139.9,27.6,4,58,0,Alto,0.59,70.6
+2016,8,2016-08-01,Teresópolis,Serrana,287010,109.1,25.4,3,17,0,Alto,0.48,62.4
+2016,8,2016-08-01,Nova Friburgo,Serrana,3779264,114.6,27.0,6,69,2,Crítico,0.36,64.7
+2016,8,2016-08-01,Angra dos Reis,Costa Verde,610303,116.5,21.0,3,30,0,Alto,0.68,91.0
+2016,8,2016-08-01,Campos dos Goytacazes,Norte Fluminense,6086095,53.5,28.0,0,0,0,Baixo,0.24,65.1
+2016,9,2016-09-01,Rio de Janeiro,Metropolitana,4758494,152.5,23.9,6,47,1,Crítico,0.82,73.9
+2016,9,2016-09-01,Niterói,Metropolitana,6320583,88.1,27.2,1,6,0,Médio,0.43,68.4
+2016,9,2016-09-01,Nova Iguaçu,Baixada,5229023,177.8,21.5,4,36,0,Alto,0.85,93.2
+2016,9,2016-09-01,Petrópolis,Serrana,1194002,18.1,27.9,1,6,0,Médio,0.3,64.8
+2016,9,2016-09-01,Teresópolis,Serrana,2437005,114.2,26.6,10,88,0,Crítico,0.44,63.3
+2016,9,2016-09-01,Nova Friburgo,Serrana,1407193,67.2,22.4,1,7,0,Médio,0.45,65.2
+2016,9,2016-09-01,Angra dos Reis,Costa Verde,4689165,125.5,27.2,3,29,0,Alto,0.71,70.4
+2016,9,2016-09-01,Campos dos Goytacazes,Norte Fluminense,771783,101.2,23.2,2,23,0,Médio,0.44,91.6
+2016,10,2016-10-01,Rio de Janeiro,Metropolitana,4815378,22.0,27.3,0,0,0,Baixo,0.2,78.7
+2016,10,2016-10-01,Niterói,Metropolitana,2839202,47.4,26.1,1,10,0,Médio,0.31,87.4
+2016,10,2016-10-01,Nova Iguaçu,Baixada,1888393,102.4,23.6,4,32,0,Alto,0.45,70.7
+2016,10,2016-10-01,Petrópolis,Serrana,3991926,15.7,25.5,0,0,0,Baixo,0.25,82.2
+2016,10,2016-10-01,Teresópolis,Serrana,6400724,126.3,27.3,6,73,0,Crítico,0.5,69.0
+2016,10,2016-10-01,Nova Friburgo,Serrana,6105263,117.1,26.2,9,96,0,Crítico,0.59,82.2
+2016,10,2016-10-01,Angra dos Reis,Costa Verde,1462405,107.3,24.5,1,13,0,Médio,0.45,86.9
+2016,10,2016-10-01,Campos dos Goytacazes,Norte Fluminense,5616657,46.2,25.3,0,0,0,Baixo,0.22,87.9
+2016,11,2016-11-01,Rio de Janeiro,Metropolitana,6276500,80.5,27.7,4,40,1,Alto,0.77,66.7
+2016,11,2016-11-01,Niterói,Metropolitana,701654,75.4,22.6,2,16,0,Médio,0.12,93.5
+2016,11,2016-11-01,Nova Iguaçu,Baixada,1780021,20.9,26.0,0,0,0,Baixo,0.16,77.1
+2016,11,2016-11-01,Petrópolis,Serrana,4160625,220.2,21.0,11,129,0,Crítico,0.87,70.0
+2016,11,2016-11-01,Teresópolis,Serrana,3232692,77.8,23.3,3,35,0,Alto,0.4,87.0
+2016,11,2016-11-01,Nova Friburgo,Serrana,2905164,142.6,25.9,7,71,0,Crítico,0.39,73.8
+2016,11,2016-11-01,Angra dos Reis,Costa Verde,4363771,128.0,26.6,5,44,1,Alto,0.56,72.5
+2016,11,2016-11-01,Campos dos Goytacazes,Norte Fluminense,6012039,139.1,23.6,5,42,0,Alto,0.66,57.7
+2016,12,2016-12-01,Rio de Janeiro,Metropolitana,732639,223.4,24.6,8,77,0,Crítico,1.0,87.3
+2016,12,2016-12-01,Niterói,Metropolitana,2932733,271.5,25.5,14,132,0,Crítico,1.0,61.0
+2016,12,2016-12-01,Nova Iguaçu,Baixada,1624201,93.3,22.6,3,29,0,Alto,0.75,82.6
+2016,12,2016-12-01,Petrópolis,Serrana,813536,221.5,25.3,16,151,1,Crítico,1.0,88.1
+2016,12,2016-12-01,Teresópolis,Serrana,840800,200.9,24.3,15,150,3,Crítico,0.89,84.0
+2016,12,2016-12-01,Nova Friburgo,Serrana,191178,253.2,22.7,23,216,3,Crítico,1.0,77.0
+2016,12,2016-12-01,Angra dos Reis,Costa Verde,5867134,70.2,26.2,4,54,0,Alto,0.36,73.6
+2016,12,2016-12-01,Campos dos Goytacazes,Norte Fluminense,463861,171.0,22.4,4,48,0,Alto,0.71,70.7
+2017,1,2017-01-01,Rio de Janeiro,Metropolitana,2313712,74.9,23.8,2,18,0,Médio,0.21,70.4
+2017,1,2017-01-01,Niterói,Metropolitana,3835715,244.0,26.9,8,97,1,Crítico,0.71,64.5
+2017,1,2017-01-01,Nova Iguaçu,Baixada,2151228,223.4,23.6,7,79,0,Crítico,0.94,55.0
+2017,1,2017-01-01,Petrópolis,Serrana,616162,200.7,24.2,13,137,2,Crítico,0.89,68.0
+2017,1,2017-01-01,Teresópolis,Serrana,2728702,234.6,28.1,22,232,1,Crítico,0.92,88.7
+2017,1,2017-01-01,Nova Friburgo,Serrana,4421071,275.2,24.6,22,217,2,Crítico,1.0,63.5
+2017,1,2017-01-01,Angra dos Reis,Costa Verde,6412793,202.0,24.1,9,102,0,Crítico,0.86,83.0
+2017,1,2017-01-01,Campos dos Goytacazes,Norte Fluminense,1152693,193.4,25.0,11,101,1,Crítico,0.87,87.4
+2017,2,2017-02-01,Rio de Janeiro,Metropolitana,6161038,197.6,28.6,4,44,0,Alto,0.78,79.7
+2017,2,2017-02-01,Niterói,Metropolitana,2473456,177.9,26.0,7,75,0,Crítico,0.79,91.4
+2017,2,2017-02-01,Nova Iguaçu,Baixada,2539356,240.9,25.2,6,64,0,Crítico,1.0,93.2
+2017,2,2017-02-01,Petrópolis,Serrana,5264558,257.4,22.1,16,166,0,Crítico,1.0,80.8
+2017,2,2017-02-01,Teresópolis,Serrana,1801718,323.2,26.9,23,238,1,Crítico,1.0,70.8
+2017,2,2017-02-01,Nova Friburgo,Serrana,1867828,226.7,23.1,18,193,0,Crítico,1.0,60.4
+2017,2,2017-02-01,Angra dos Reis,Costa Verde,6282064,203.6,29.6,6,60,1,Crítico,0.89,79.0
+2017,2,2017-02-01,Campos dos Goytacazes,Norte Fluminense,3630150,110.5,24.3,4,40,0,Alto,0.51,92.2
+2017,3,2017-03-01,Rio de Janeiro,Metropolitana,3074866,129.8,23.3,6,63,0,Crítico,0.68,82.3
+2017,3,2017-03-01,Niterói,Metropolitana,4296772,177.6,26.0,6,62,0,Crítico,0.6,68.3
+2017,3,2017-03-01,Nova Iguaçu,Baixada,501623,207.3,23.7,8,81,0,Crítico,0.93,87.9
+2017,3,2017-03-01,Petrópolis,Serrana,3047456,320.6,22.3,20,184,2,Crítico,1.0,88.2
+2017,3,2017-03-01,Teresópolis,Serrana,992915,314.9,24.7,21,195,1,Crítico,1.0,60.3
+2017,3,2017-03-01,Nova Friburgo,Serrana,445513,213.7,24.9,17,181,1,Crítico,1.0,87.2
+2017,3,2017-03-01,Angra dos Reis,Costa Verde,4640047,161.5,22.6,6,52,1,Crítico,0.62,85.0
+2017,3,2017-03-01,Campos dos Goytacazes,Norte Fluminense,4095836,205.7,27.9,14,147,0,Crítico,0.79,60.5
+2017,4,2017-04-01,Rio de Janeiro,Metropolitana,5285931,59.4,22.0,0,0,0,Baixo,0.2,88.5
+2017,4,2017-04-01,Niterói,Metropolitana,6098111,120.9,21.5,3,30,0,Alto,0.64,81.5
+2017,4,2017-04-01,Nova Iguaçu,Baixada,5523242,153.1,27.1,3,24,0,Alto,0.65,66.6
+2017,4,2017-04-01,Petrópolis,Serrana,520583,99.5,27.9,2,20,0,Médio,0.39,56.3
+2017,4,2017-04-01,Teresópolis,Serrana,2971013,181.7,23.0,9,94,1,Crítico,0.71,80.3
+2017,4,2017-04-01,Nova Friburgo,Serrana,1448608,52.2,24.8,2,31,0,Médio,0.45,78.2
+2017,4,2017-04-01,Angra dos Reis,Costa Verde,1411453,94.4,24.1,2,15,0,Médio,0.73,87.7
+2017,4,2017-04-01,Campos dos Goytacazes,Norte Fluminense,4775752,125.2,24.5,4,33,0,Alto,0.51,82.5
+2017,5,2017-05-01,Rio de Janeiro,Metropolitana,2580814,105.0,25.7,4,44,0,Alto,0.67,92.4
+2017,5,2017-05-01,Niterói,Metropolitana,815104,153.5,26.7,4,35,1,Alto,0.72,71.7
+2017,5,2017-05-01,Nova Iguaçu,Baixada,771341,188.3,27.0,7,65,0,Crítico,0.73,61.8
+2017,5,2017-05-01,Petrópolis,Serrana,3667381,128.3,24.0,5,53,0,Alto,0.7,91.1
+2017,5,2017-05-01,Teresópolis,Serrana,5280107,145.5,23.6,4,45,0,Alto,0.74,86.1
+2017,5,2017-05-01,Nova Friburgo,Serrana,135463,167.8,27.0,5,61,0,Alto,0.71,91.9
+2017,5,2017-05-01,Angra dos Reis,Costa Verde,2738514,17.4,30.9,1,7,0,Médio,0.26,56.5
+2017,5,2017-05-01,Campos dos Goytacazes,Norte Fluminense,4626520,107.3,24.2,4,42,0,Alto,0.58,57.4
+2017,6,2017-06-01,Rio de Janeiro,Metropolitana,2623988,28.5,26.8,0,0,0,Baixo,0.35,78.4
+2017,6,2017-06-01,Niterói,Metropolitana,814890,0.0,22.6,0,0,0,Baixo,0.17,60.5
+2017,6,2017-06-01,Nova Iguaçu,Baixada,5162424,60.5,23.4,3,32,0,Alto,0.51,83.0
+2017,6,2017-06-01,Petrópolis,Serrana,2510194,168.2,24.6,11,116,1,Crítico,0.55,66.7
+2017,6,2017-06-01,Teresópolis,Serrana,4000423,206.1,26.6,17,168,1,Crítico,0.86,83.7
+2017,6,2017-06-01,Nova Friburgo,Serrana,3609453,127.6,23.3,8,88,1,Crítico,0.33,58.8
+2017,6,2017-06-01,Angra dos Reis,Costa Verde,4817463,174.8,22.0,10,90,0,Crítico,0.78,78.2
+2017,6,2017-06-01,Campos dos Goytacazes,Norte Fluminense,2855972,115.4,27.7,5,53,0,Alto,0.56,78.3
+2017,7,2017-07-01,Rio de Janeiro,Metropolitana,3433791,107.4,26.0,0,0,0,Baixo,0.56,67.1
+2017,7,2017-07-01,Niterói,Metropolitana,1373546,108.9,20.7,5,58,0,Alto,0.63,92.7
+2017,7,2017-07-01,Nova Iguaçu,Baixada,3930143,164.3,25.7,6,64,1,Crítico,0.58,65.7
+2017,7,2017-07-01,Petrópolis,Serrana,4989509,54.7,25.1,2,22,0,Médio,0.41,62.6
+2017,7,2017-07-01,Teresópolis,Serrana,4219135,86.9,23.3,3,46,0,Alto,0.55,90.3
+2017,7,2017-07-01,Nova Friburgo,Serrana,1903292,0.0,27.2,1,11,0,Médio,0.1,67.1
+2017,7,2017-07-01,Angra dos Reis,Costa Verde,342457,69.2,28.0,0,0,0,Baixo,0.31,74.6
+2017,7,2017-07-01,Campos dos Goytacazes,Norte Fluminense,6428358,0.0,27.5,0,0,0,Baixo,0.13,76.4
+2017,8,2017-08-01,Rio de Janeiro,Metropolitana,2683515,160.9,20.6,4,50,0,Alto,0.65,94.0
+2017,8,2017-08-01,Niterói,Metropolitana,4198883,83.9,23.7,1,4,0,Médio,0.48,73.4
+2017,8,2017-08-01,Nova Iguaçu,Baixada,3827231,120.6,23.9,2,25,0,Médio,0.54,62.4
+2017,8,2017-08-01,Petrópolis,Serrana,402884,234.8,24.4,12,111,0,Crítico,0.85,55.4
+2017,8,2017-08-01,Teresópolis,Serrana,3142131,104.9,27.5,5,47,0,Alto,0.55,81.7
+2017,8,2017-08-01,Nova Friburgo,Serrana,1404917,0.2,24.3,0,0,0,Baixo,0.04,64.8
+2017,8,2017-08-01,Angra dos Reis,Costa Verde,1736833,67.3,22.9,0,0,0,Baixo,0.3,63.6
+2017,8,2017-08-01,Campos dos Goytacazes,Norte Fluminense,5083048,90.2,25.0,1,11,0,Médio,0.48,91.7
+2017,9,2017-09-01,Rio de Janeiro,Metropolitana,5367565,127.6,24.6,1,6,0,Médio,0.55,75.7
+2017,9,2017-09-01,Niterói,Metropolitana,6205825,100.4,25.4,3,34,0,Alto,0.65,92.5
+2017,9,2017-09-01,Nova Iguaçu,Baixada,991800,84.4,25.4,4,46,0,Alto,0.53,57.0
+2017,9,2017-09-01,Petrópolis,Serrana,1669980,124.6,26.1,5,59,0,Alto,0.39,85.0
+2017,9,2017-09-01,Teresópolis,Serrana,6281574,32.4,28.0,1,8,0,Médio,0.26,57.2
+2017,9,2017-09-01,Nova Friburgo,Serrana,3761396,136.6,23.5,8,86,0,Crítico,0.79,61.2
+2017,9,2017-09-01,Angra dos Reis,Costa Verde,5072812,91.5,24.8,1,13,0,Médio,0.48,86.0
+2017,9,2017-09-01,Campos dos Goytacazes,Norte Fluminense,5753477,96.8,23.1,2,20,0,Médio,0.61,57.5
+2017,10,2017-10-01,Rio de Janeiro,Metropolitana,6102095,181.8,31.1,7,64,1,Crítico,0.89,89.8
+2017,10,2017-10-01,Niterói,Metropolitana,1928217,78.9,26.0,1,11,0,Médio,0.54,66.0
+2017,10,2017-10-01,Nova Iguaçu,Baixada,4324349,128.5,24.5,0,0,0,Baixo,0.62,87.7
+2017,10,2017-10-01,Petrópolis,Serrana,3772495,135.5,22.6,8,80,0,Crítico,0.74,77.6
+2017,10,2017-10-01,Teresópolis,Serrana,4089165,0.0,21.7,0,0,0,Baixo,0.17,56.8
+2017,10,2017-10-01,Nova Friburgo,Serrana,195805,112.1,26.6,7,66,0,Crítico,0.73,74.6
+2017,10,2017-10-01,Angra dos Reis,Costa Verde,1248214,0.0,22.3,0,0,0,Baixo,0.03,89.3
+2017,10,2017-10-01,Campos dos Goytacazes,Norte Fluminense,4120832,72.9,25.7,4,42,0,Alto,0.58,80.7
+2017,11,2017-11-01,Rio de Janeiro,Metropolitana,881284,163.4,23.6,2,17,0,Médio,0.56,86.1
+2017,11,2017-11-01,Niterói,Metropolitana,5678385,112.3,22.3,5,51,0,Alto,0.74,92.8
+2017,11,2017-11-01,Nova Iguaçu,Baixada,6104117,98.4,25.2,4,37,0,Alto,0.47,61.6
+2017,11,2017-11-01,Petrópolis,Serrana,3857181,161.6,22.3,6,50,1,Crítico,0.85,69.3
+2017,11,2017-11-01,Teresópolis,Serrana,2902857,160.2,26.2,17,157,0,Crítico,0.84,84.3
+2017,11,2017-11-01,Nova Friburgo,Serrana,4165892,84.5,26.2,5,48,0,Alto,0.57,59.5
+2017,11,2017-11-01,Angra dos Reis,Costa Verde,1784511,98.5,22.7,4,43,0,Alto,0.57,80.5
+2017,11,2017-11-01,Campos dos Goytacazes,Norte Fluminense,2008944,59.7,24.7,0,0,0,Baixo,0.7,92.1
+2017,12,2017-12-01,Rio de Janeiro,Metropolitana,4900116,246.4,26.5,6,55,0,Crítico,0.98,70.1
+2017,12,2017-12-01,Niterói,Metropolitana,1275932,221.9,24.2,4,39,1,Alto,0.85,85.6
+2017,12,2017-12-01,Nova Iguaçu,Baixada,3075320,145.5,22.9,4,38,1,Alto,0.83,82.2
+2017,12,2017-12-01,Petrópolis,Serrana,138482,198.9,24.8,7,57,0,Crítico,0.73,79.2
+2017,12,2017-12-01,Teresópolis,Serrana,4235424,180.4,22.2,12,121,0,Crítico,1.0,74.1
+2017,12,2017-12-01,Nova Friburgo,Serrana,1228567,224.6,24.4,12,117,1,Crítico,1.0,74.3
+2017,12,2017-12-01,Angra dos Reis,Costa Verde,4641954,234.4,25.7,10,112,0,Crítico,0.92,75.8
+2017,12,2017-12-01,Campos dos Goytacazes,Norte Fluminense,3933838,229.2,25.0,12,127,0,Crítico,1.0,73.8
+2018,1,2018-01-01,Rio de Janeiro,Metropolitana,5259389,179.0,23.6,6,57,0,Crítico,0.58,94.5
+2018,1,2018-01-01,Niterói,Metropolitana,5019946,224.6,25.3,7,65,0,Crítico,0.78,88.4
+2018,1,2018-01-01,Nova Iguaçu,Baixada,5134333,151.2,23.4,4,47,0,Alto,0.67,84.2
+2018,1,2018-01-01,Petrópolis,Serrana,1176977,321.8,23.2,17,154,0,Crítico,1.0,86.5
+2018,1,2018-01-01,Teresópolis,Serrana,5774846,254.7,23.7,13,121,0,Crítico,1.0,89.6
+2018,1,2018-01-01,Nova Friburgo,Serrana,748864,186.7,26.1,10,95,1,Crítico,1.0,66.9
+2018,1,2018-01-01,Angra dos Reis,Costa Verde,1615657,153.9,27.2,8,80,0,Crítico,0.61,56.6
+2018,1,2018-01-01,Campos dos Goytacazes,Norte Fluminense,6110882,210.7,27.5,15,141,0,Crítico,0.75,73.0
+2018,2,2018-02-01,Rio de Janeiro,Metropolitana,3825962,36.8,24.2,0,0,0,Baixo,0.38,87.4
+2018,2,2018-02-01,Niterói,Metropolitana,582665,215.3,24.9,11,109,1,Crítico,1.0,81.7
+2018,2,2018-02-01,Nova Iguaçu,Baixada,6159602,172.4,25.3,4,50,1,Alto,0.66,77.4
+2018,2,2018-02-01,Petrópolis,Serrana,2269779,211.8,25.4,10,107,0,Crítico,0.81,75.7
+2018,2,2018-02-01,Teresópolis,Serrana,5245013,210.7,23.1,13,122,0,Crítico,0.66,94.8
+2018,2,2018-02-01,Nova Friburgo,Serrana,491256,282.2,24.6,16,154,0,Crítico,1.0,85.7
+2018,2,2018-02-01,Angra dos Reis,Costa Verde,5004457,232.5,23.9,13,130,0,Crítico,1.0,87.7
+2018,2,2018-02-01,Campos dos Goytacazes,Norte Fluminense,6239211,235.2,22.4,9,98,1,Crítico,1.0,81.7
+2018,3,2018-03-01,Rio de Janeiro,Metropolitana,557536,235.2,25.0,16,162,1,Crítico,0.91,80.4
+2018,3,2018-03-01,Niterói,Metropolitana,1690346,190.6,25.6,6,64,0,Crítico,0.82,81.2
+2018,3,2018-03-01,Nova Iguaçu,Baixada,2952745,107.4,24.3,1,10,0,Médio,0.35,63.3
+2018,3,2018-03-01,Petrópolis,Serrana,2062308,280.9,24.2,23,280,1,Crítico,1.0,84.3
+2018,3,2018-03-01,Teresópolis,Serrana,3334299,250.7,26.4,18,157,0,Crítico,1.0,91.7
+2018,3,2018-03-01,Nova Friburgo,Serrana,243637,173.7,21.5,8,89,0,Crítico,0.74,77.5
+2018,3,2018-03-01,Angra dos Reis,Costa Verde,3474506,232.9,25.3,6,58,0,Crítico,0.97,92.4
+2018,3,2018-03-01,Campos dos Goytacazes,Norte Fluminense,5828858,295.1,22.2,13,150,0,Crítico,1.0,86.7
+2018,4,2018-04-01,Rio de Janeiro,Metropolitana,413524,88.1,22.7,1,10,0,Médio,0.59,71.2
+2018,4,2018-04-01,Niterói,Metropolitana,1220225,87.1,25.3,2,20,0,Médio,0.41,77.6
+2018,4,2018-04-01,Nova Iguaçu,Baixada,6099765,72.6,25.1,3,27,0,Alto,0.48,82.0
+2018,4,2018-04-01,Petrópolis,Serrana,3281689,128.2,25.9,2,21,0,Médio,0.53,72.6
+2018,4,2018-04-01,Teresópolis,Serrana,6389343,165.9,20.6,8,71,0,Crítico,0.83,60.8
+2018,4,2018-04-01,Nova Friburgo,Serrana,3153026,0.0,29.2,0,0,0,Baixo,0.09,65.7
+2018,4,2018-04-01,Angra dos Reis,Costa Verde,2553751,81.4,29.0,1,11,0,Médio,0.43,74.2
+2018,4,2018-04-01,Campos dos Goytacazes,Norte Fluminense,203250,42.6,24.7,1,13,0,Médio,0.26,75.9
+2018,5,2018-05-01,Rio de Janeiro,Metropolitana,5801006,27.3,23.9,3,37,1,Alto,0.42,88.2
+2018,5,2018-05-01,Niterói,Metropolitana,2313843,68.4,26.7,2,19,0,Médio,0.36,61.4
+2018,5,2018-05-01,Nova Iguaçu,Baixada,1995279,39.7,26.5,0,0,0,Baixo,0.31,63.7
+2018,5,2018-05-01,Petrópolis,Serrana,4802818,170.6,24.8,12,118,0,Crítico,0.75,84.0
+2018,5,2018-05-01,Teresópolis,Serrana,2250599,39.7,23.0,1,12,0,Médio,0.32,72.0
+2018,5,2018-05-01,Nova Friburgo,Serrana,1061376,0.0,26.1,0,0,0,Baixo,0.32,79.7
+2018,5,2018-05-01,Angra dos Reis,Costa Verde,1239818,36.3,22.7,1,12,0,Médio,0.01,71.2
+2018,5,2018-05-01,Campos dos Goytacazes,Norte Fluminense,1054040,200.6,26.1,7,62,0,Crítico,0.91,63.0
+2018,6,2018-06-01,Rio de Janeiro,Metropolitana,1101871,78.8,24.5,4,30,0,Alto,0.59,68.0
+2018,6,2018-06-01,Niterói,Metropolitana,1407046,56.9,27.1,1,5,0,Médio,0.44,76.8
+2018,6,2018-06-01,Nova Iguaçu,Baixada,2873665,157.8,24.3,6,67,0,Crítico,0.72,84.4
+2018,6,2018-06-01,Petrópolis,Serrana,4218569,65.2,23.0,2,17,0,Médio,0.33,91.4
+2018,6,2018-06-01,Teresópolis,Serrana,2387500,167.1,22.9,10,92,0,Crítico,0.62,74.6
+2018,6,2018-06-01,Nova Friburgo,Serrana,3047424,91.4,26.7,2,20,0,Médio,0.47,85.0
+2018,6,2018-06-01,Angra dos Reis,Costa Verde,5463547,70.0,23.4,1,7,0,Médio,0.22,93.1
+2018,6,2018-06-01,Campos dos Goytacazes,Norte Fluminense,873860,24.5,22.2,0,0,0,Baixo,0.31,80.2
+2018,7,2018-07-01,Rio de Janeiro,Metropolitana,3829686,61.6,19.7,0,0,0,Baixo,0.4,63.5
+2018,7,2018-07-01,Niterói,Metropolitana,1334937,132.5,25.9,1,12,0,Médio,0.67,65.8
+2018,7,2018-07-01,Nova Iguaçu,Baixada,554203,65.2,25.9,1,4,0,Médio,0.43,91.7
+2018,7,2018-07-01,Petrópolis,Serrana,2973868,125.9,23.6,5,61,0,Alto,0.63,77.9
+2018,7,2018-07-01,Teresópolis,Serrana,4151172,196.1,28.0,11,107,0,Crítico,0.82,89.5
+2018,7,2018-07-01,Nova Friburgo,Serrana,1371652,204.4,24.3,5,41,0,Alto,0.8,83.5
+2018,7,2018-07-01,Angra dos Reis,Costa Verde,306203,196.0,23.1,6,65,0,Crítico,0.63,83.1
+2018,7,2018-07-01,Campos dos Goytacazes,Norte Fluminense,5331445,133.1,26.1,2,20,0,Médio,0.54,94.9
+2018,8,2018-08-01,Rio de Janeiro,Metropolitana,951484,18.2,26.9,0,0,0,Baixo,0.16,64.9
+2018,8,2018-08-01,Niterói,Metropolitana,391063,57.9,26.5,1,9,0,Médio,0.45,79.7
+2018,8,2018-08-01,Nova Iguaçu,Baixada,5596853,154.6,26.5,5,43,1,Alto,0.74,89.2
+2018,8,2018-08-01,Petrópolis,Serrana,3088298,126.0,23.3,3,33,0,Alto,0.43,75.2
+2018,8,2018-08-01,Teresópolis,Serrana,5216061,170.8,26.6,8,86,0,Crítico,0.78,66.7
+2018,8,2018-08-01,Nova Friburgo,Serrana,4275779,0.0,25.6,0,0,0,Baixo,0.0,94.1
+2018,8,2018-08-01,Angra dos Reis,Costa Verde,800547,46.7,25.2,0,0,0,Baixo,0.38,88.2
+2018,8,2018-08-01,Campos dos Goytacazes,Norte Fluminense,490501,104.9,24.3,1,7,0,Médio,0.72,61.1
+2018,9,2018-09-01,Rio de Janeiro,Metropolitana,5212058,157.0,24.5,4,43,1,Alto,0.66,84.5
+2018,9,2018-09-01,Niterói,Metropolitana,6414234,53.7,29.5,1,9,0,Médio,0.35,77.9
+2018,9,2018-09-01,Nova Iguaçu,Baixada,5328955,115.8,24.0,0,0,0,Baixo,0.67,66.9
+2018,9,2018-09-01,Petrópolis,Serrana,3465181,142.6,29.6,5,55,0,Alto,0.67,63.4
+2018,9,2018-09-01,Teresópolis,Serrana,976138,57.6,25.5,4,38,1,Alto,0.28,75.9
+2018,9,2018-09-01,Nova Friburgo,Serrana,6331594,135.3,23.5,8,66,1,Crítico,0.54,62.4
+2018,9,2018-09-01,Angra dos Reis,Costa Verde,3296872,41.3,22.4,1,12,0,Médio,0.4,76.1
+2018,9,2018-09-01,Campos dos Goytacazes,Norte Fluminense,506944,169.8,27.6,8,80,1,Crítico,0.77,56.1
+2018,10,2018-10-01,Rio de Janeiro,Metropolitana,5050042,118.7,24.4,3,34,0,Alto,0.66,80.6
+2018,10,2018-10-01,Niterói,Metropolitana,4656188,86.2,24.8,3,30,0,Alto,0.47,57.6
+2018,10,2018-10-01,Nova Iguaçu,Baixada,5303090,93.5,22.0,0,0,0,Baixo,0.46,89.7
+2018,10,2018-10-01,Petrópolis,Serrana,2996512,188.7,26.3,13,129,0,Crítico,0.9,80.8
+2018,10,2018-10-01,Teresópolis,Serrana,1954444,171.5,26.2,8,82,1,Crítico,0.88,66.2
+2018,10,2018-10-01,Nova Friburgo,Serrana,4930851,73.0,25.0,3,26,0,Alto,0.4,81.9
+2018,10,2018-10-01,Angra dos Reis,Costa Verde,1266571,73.7,24.0,3,34,0,Alto,0.41,65.1
+2018,10,2018-10-01,Campos dos Goytacazes,Norte Fluminense,3602479,16.3,27.7,0,0,0,Baixo,0.27,59.6
+2018,11,2018-11-01,Rio de Janeiro,Metropolitana,2249245,94.9,22.4,2,20,0,Médio,0.49,90.8
+2018,11,2018-11-01,Niterói,Metropolitana,1747379,92.3,25.9,1,12,1,Médio,0.57,76.4
+2018,11,2018-11-01,Nova Iguaçu,Baixada,665870,94.5,24.0,5,42,0,Alto,0.43,56.4
+2018,11,2018-11-01,Petrópolis,Serrana,219267,145.1,26.2,5,52,0,Alto,0.44,67.0
+2018,11,2018-11-01,Teresópolis,Serrana,3526934,146.2,27.4,8,75,0,Crítico,0.46,88.6
+2018,11,2018-11-01,Nova Friburgo,Serrana,4547638,104.6,22.0,3,26,0,Alto,0.53,56.4
+2018,11,2018-11-01,Angra dos Reis,Costa Verde,4609030,25.9,25.4,1,9,0,Médio,0.2,59.9
+2018,11,2018-11-01,Campos dos Goytacazes,Norte Fluminense,3247083,142.5,28.6,2,11,0,Médio,0.55,87.9
+2018,12,2018-12-01,Rio de Janeiro,Metropolitana,2446652,172.1,26.0,4,39,0,Alto,0.86,77.5
+2018,12,2018-12-01,Niterói,Metropolitana,3748299,217.4,23.5,4,40,0,Alto,0.94,65.4
+2018,12,2018-12-01,Nova Iguaçu,Baixada,826482,188.2,25.5,10,105,2,Crítico,0.88,88.9
+2018,12,2018-12-01,Petrópolis,Serrana,703516,273.1,23.7,23,255,3,Crítico,1.0,80.7
+2018,12,2018-12-01,Teresópolis,Serrana,4436427,307.8,21.8,21,187,0,Crítico,1.0,90.7
+2018,12,2018-12-01,Nova Friburgo,Serrana,4004376,186.3,28.2,14,136,1,Crítico,0.96,55.6
+2018,12,2018-12-01,Angra dos Reis,Costa Verde,873114,279.2,21.4,7,68,1,Crítico,1.0,58.4
+2018,12,2018-12-01,Campos dos Goytacazes,Norte Fluminense,6063750,242.9,24.0,10,88,1,Crítico,1.0,69.5
+2019,1,2019-01-01,Rio de Janeiro,Metropolitana,3748680,200.7,27.6,2,18,0,Médio,0.79,72.2
+2019,1,2019-01-01,Niterói,Metropolitana,5109319,168.6,24.8,7,69,0,Crítico,0.77,73.2
+2019,1,2019-01-01,Nova Iguaçu,Baixada,138075,151.7,25.7,9,72,0,Crítico,0.69,61.0
+2019,1,2019-01-01,Petrópolis,Serrana,1545733,360.0,21.8,32,333,1,Crítico,1.0,63.2
+2019,1,2019-01-01,Teresópolis,Serrana,4902297,224.5,24.1,8,80,0,Crítico,0.82,82.8
+2019,1,2019-01-01,Nova Friburgo,Serrana,459582,315.2,25.9,21,198,0,Crítico,1.0,73.8
+2019,1,2019-01-01,Angra dos Reis,Costa Verde,4178773,216.6,25.5,4,41,1,Alto,0.72,70.1
+2019,1,2019-01-01,Campos dos Goytacazes,Norte Fluminense,1792486,175.3,24.1,6,62,1,Crítico,0.69,91.9
+2019,2,2019-02-01,Rio de Janeiro,Metropolitana,5499612,268.5,25.9,9,100,0,Crítico,1.0,73.9
+2019,2,2019-02-01,Niterói,Metropolitana,233368,100.9,23.4,2,18,0,Médio,0.37,80.6
+2019,2,2019-02-01,Nova Iguaçu,Baixada,4227999,178.4,27.2,6,70,0,Crítico,0.72,65.0
+2019,2,2019-02-01,Petrópolis,Serrana,3612800,264.6,29.4,25,248,2,Crítico,1.0,78.0
+2019,2,2019-02-01,Teresópolis,Serrana,4214128,243.3,22.8,8,83,2,Crítico,0.88,75.7
+2019,2,2019-02-01,Nova Friburgo,Serrana,4172413,259.1,22.7,20,214,0,Crítico,1.0,63.6
+2019,2,2019-02-01,Angra dos Reis,Costa Verde,4468661,206.7,22.4,7,56,0,Crítico,0.83,64.4
+2019,2,2019-02-01,Campos dos Goytacazes,Norte Fluminense,402123,172.5,25.4,8,75,0,Crítico,0.85,66.7
+2019,3,2019-03-01,Rio de Janeiro,Metropolitana,2076720,223.0,27.5,7,66,1,Crítico,0.88,59.6
+2019,3,2019-03-01,Niterói,Metropolitana,1818766,229.8,24.0,12,129,1,Crítico,1.0,81.9
+2019,3,2019-03-01,Nova Iguaçu,Baixada,4451094,188.0,23.5,8,75,0,Crítico,0.77,59.9
+2019,3,2019-03-01,Petrópolis,Serrana,2564433,248.3,23.8,15,148,3,Crítico,1.0,65.9
+2019,3,2019-03-01,Teresópolis,Serrana,4900617,210.8,25.1,12,133,1,Crítico,1.0,73.7
+2019,3,2019-03-01,Nova Friburgo,Serrana,3578891,253.6,24.9,15,153,0,Crítico,1.0,91.6
+2019,3,2019-03-01,Angra dos Reis,Costa Verde,1905899,96.6,28.1,2,21,0,Médio,0.48,77.7
+2019,3,2019-03-01,Campos dos Goytacazes,Norte Fluminense,858004,239.8,25.8,8,74,3,Crítico,1.0,91.8
+2019,4,2019-04-01,Rio de Janeiro,Metropolitana,1963945,173.4,27.7,2,17,0,Médio,0.64,82.6
+2019,4,2019-04-01,Niterói,Metropolitana,5899092,83.5,25.9,1,5,0,Médio,0.46,61.7
+2019,4,2019-04-01,Nova Iguaçu,Baixada,5715872,92.5,25.3,2,16,0,Médio,0.42,73.9
+2019,4,2019-04-01,Petrópolis,Serrana,715276,114.5,22.7,6,57,1,Crítico,0.67,84.7
+2019,4,2019-04-01,Teresópolis,Serrana,6033224,62.3,28.1,2,21,0,Médio,0.35,89.3
+2019,4,2019-04-01,Nova Friburgo,Serrana,4245868,0.0,27.0,0,0,0,Baixo,0.28,88.2
+2019,4,2019-04-01,Angra dos Reis,Costa Verde,2694881,69.2,23.8,1,9,0,Médio,0.44,60.2
+2019,4,2019-04-01,Campos dos Goytacazes,Norte Fluminense,2464874,82.8,23.0,0,0,0,Baixo,0.38,59.9
+2019,5,2019-05-01,Rio de Janeiro,Metropolitana,5901407,82.7,21.6,2,23,0,Médio,0.34,74.2
+2019,5,2019-05-01,Niterói,Metropolitana,5326524,28.2,28.3,0,0,0,Baixo,0.3,62.5
+2019,5,2019-05-01,Nova Iguaçu,Baixada,936577,147.6,25.5,3,27,0,Alto,0.65,64.7
+2019,5,2019-05-01,Petrópolis,Serrana,5942060,61.3,22.6,6,61,0,Crítico,0.67,67.8
+2019,5,2019-05-01,Teresópolis,Serrana,6256957,90.0,22.9,2,21,0,Médio,0.54,74.4
+2019,5,2019-05-01,Nova Friburgo,Serrana,4187112,81.9,27.1,2,26,0,Médio,0.39,60.5
+2019,5,2019-05-01,Angra dos Reis,Costa Verde,5318933,41.5,26.5,0,0,0,Baixo,0.57,61.4
+2019,5,2019-05-01,Campos dos Goytacazes,Norte Fluminense,1014790,173.1,24.1,7,63,1,Crítico,0.85,56.2
+2019,6,2019-06-01,Rio de Janeiro,Metropolitana,4637278,138.2,22.1,1,9,0,Médio,0.49,89.6
+2019,6,2019-06-01,Niterói,Metropolitana,3296935,106.0,23.4,3,31,0,Alto,0.61,70.7
+2019,6,2019-06-01,Nova Iguaçu,Baixada,4464766,126.6,26.7,8,68,0,Crítico,0.59,63.6
+2019,6,2019-06-01,Petrópolis,Serrana,175405,167.5,24.3,5,41,1,Alto,0.59,76.9
+2019,6,2019-06-01,Teresópolis,Serrana,4584989,93.3,26.4,5,43,1,Alto,0.45,91.3
+2019,6,2019-06-01,Nova Friburgo,Serrana,3981249,113.7,21.5,4,40,1,Alto,0.44,63.4
+2019,6,2019-06-01,Angra dos Reis,Costa Verde,1256699,37.0,24.2,0,0,0,Baixo,0.61,57.1
+2019,6,2019-06-01,Campos dos Goytacazes,Norte Fluminense,1835157,93.1,25.3,2,14,0,Médio,0.58,67.0
+2019,7,2019-07-01,Rio de Janeiro,Metropolitana,3355333,179.6,26.8,6,75,0,Crítico,0.65,88.4
+2019,7,2019-07-01,Niterói,Metropolitana,3082077,112.2,26.2,0,0,0,Baixo,0.5,59.1
+2019,7,2019-07-01,Nova Iguaçu,Baixada,1122426,56.6,27.4,0,0,0,Baixo,0.32,78.3
+2019,7,2019-07-01,Petrópolis,Serrana,1643512,172.5,27.0,6,64,1,Crítico,0.74,55.0
+2019,7,2019-07-01,Teresópolis,Serrana,4241876,61.5,23.8,0,0,0,Baixo,0.3,81.5
+2019,7,2019-07-01,Nova Friburgo,Serrana,910483,178.6,24.0,9,78,0,Crítico,0.73,66.3
+2019,7,2019-07-01,Angra dos Reis,Costa Verde,5756212,150.6,28.3,2,20,0,Médio,0.89,88.8
+2019,7,2019-07-01,Campos dos Goytacazes,Norte Fluminense,4198042,72.5,21.8,0,0,0,Baixo,0.56,70.6
+2019,8,2019-08-01,Rio de Janeiro,Metropolitana,239135,42.0,24.0,2,24,1,Médio,0.49,64.8
+2019,8,2019-08-01,Niterói,Metropolitana,3285011,81.1,25.7,3,22,1,Alto,0.53,79.7
+2019,8,2019-08-01,Nova Iguaçu,Baixada,5266139,124.5,26.1,4,39,1,Alto,0.72,71.9
+2019,8,2019-08-01,Petrópolis,Serrana,6354026,230.3,24.1,17,173,0,Crítico,0.93,80.6
+2019,8,2019-08-01,Teresópolis,Serrana,1629845,167.0,23.0,6,60,0,Crítico,0.81,65.5
+2019,8,2019-08-01,Nova Friburgo,Serrana,5516723,134.8,22.4,11,88,0,Crítico,0.66,82.3
+2019,8,2019-08-01,Angra dos Reis,Costa Verde,615623,88.6,27.5,3,20,0,Alto,0.62,59.5
+2019,8,2019-08-01,Campos dos Goytacazes,Norte Fluminense,1499687,95.4,24.8,2,18,0,Médio,0.45,60.0
+2019,9,2019-09-01,Rio de Janeiro,Metropolitana,4898156,152.9,22.8,4,51,0,Alto,0.57,66.6
+2019,9,2019-09-01,Niterói,Metropolitana,6423395,0.0,21.4,0,0,0,Baixo,0.03,73.0
+2019,9,2019-09-01,Nova Iguaçu,Baixada,2720374,130.1,26.5,2,21,0,Médio,0.52,58.9
+2019,9,2019-09-01,Petrópolis,Serrana,594772,127.8,24.5,5,68,0,Alto,0.54,66.2
+2019,9,2019-09-01,Teresópolis,Serrana,6427035,140.8,27.7,4,50,0,Alto,0.55,59.0
+2019,9,2019-09-01,Nova Friburgo,Serrana,726667,120.5,24.3,7,72,1,Crítico,0.59,67.7
+2019,9,2019-09-01,Angra dos Reis,Costa Verde,663938,45.3,20.6,0,0,0,Baixo,0.14,79.5
+2019,9,2019-09-01,Campos dos Goytacazes,Norte Fluminense,1872212,53.1,25.6,2,19,0,Médio,0.22,90.9
+2019,10,2019-10-01,Rio de Janeiro,Metropolitana,2873463,80.9,26.3,1,14,0,Médio,0.58,87.6
+2019,10,2019-10-01,Niterói,Metropolitana,2371705,87.8,22.5,5,38,0,Alto,0.6,62.9
+2019,10,2019-10-01,Nova Iguaçu,Baixada,2243629,78.2,25.1,2,22,0,Médio,0.26,58.8
+2019,10,2019-10-01,Petrópolis,Serrana,1870302,83.6,24.5,6,66,0,Crítico,0.4,76.5
+2019,10,2019-10-01,Teresópolis,Serrana,4215825,19.6,24.4,1,11,0,Médio,0.3,93.6
+2019,10,2019-10-01,Nova Friburgo,Serrana,3266341,36.0,25.3,0,0,0,Baixo,0.13,65.8
+2019,10,2019-10-01,Angra dos Reis,Costa Verde,2199566,90.9,24.4,7,54,1,Crítico,0.47,57.0
+2019,10,2019-10-01,Campos dos Goytacazes,Norte Fluminense,1793042,155.0,23.6,3,31,0,Alto,0.52,55.1
+2019,11,2019-11-01,Rio de Janeiro,Metropolitana,500981,27.3,22.7,0,0,0,Baixo,0.18,93.1
+2019,11,2019-11-01,Niterói,Metropolitana,1511370,37.7,24.3,2,28,0,Médio,0.11,70.7
+2019,11,2019-11-01,Nova Iguaçu,Baixada,3309795,78.9,21.4,2,24,0,Médio,0.54,83.5
+2019,11,2019-11-01,Petrópolis,Serrana,5178709,122.4,28.0,7,74,0,Crítico,0.7,55.9
+2019,11,2019-11-01,Teresópolis,Serrana,4031389,108.1,29.0,8,98,0,Crítico,0.56,77.7
+2019,11,2019-11-01,Nova Friburgo,Serrana,5961134,87.8,25.2,3,33,0,Alto,0.45,83.1
+2019,11,2019-11-01,Angra dos Reis,Costa Verde,2926869,170.8,23.2,6,60,0,Crítico,0.59,78.2
+2019,11,2019-11-01,Campos dos Goytacazes,Norte Fluminense,3106851,51.8,23.6,2,15,0,Médio,0.37,76.7
+2019,12,2019-12-01,Rio de Janeiro,Metropolitana,1536260,131.2,29.7,4,47,0,Alto,0.67,83.7
+2019,12,2019-12-01,Niterói,Metropolitana,4546404,145.7,22.9,9,94,1,Crítico,0.54,68.1
+2019,12,2019-12-01,Nova Iguaçu,Baixada,1887064,130.3,22.5,5,53,2,Alto,0.73,80.8
+2019,12,2019-12-01,Petrópolis,Serrana,6453762,194.2,25.0,11,121,3,Crítico,0.85,85.3
+2019,12,2019-12-01,Teresópolis,Serrana,4864141,253.2,23.7,8,73,0,Crítico,1.0,58.6
+2019,12,2019-12-01,Nova Friburgo,Serrana,3966517,165.0,27.2,7,62,0,Crítico,0.81,72.5
+2019,12,2019-12-01,Angra dos Reis,Costa Verde,6144663,279.6,25.4,12,118,0,Crítico,1.0,72.9
+2019,12,2019-12-01,Campos dos Goytacazes,Norte Fluminense,1032394,279.8,23.3,10,94,0,Crítico,1.0,84.6
+2020,1,2020-01-01,Rio de Janeiro,Metropolitana,2369148,131.0,24.7,3,35,0,Alto,0.69,72.9
+2020,1,2020-01-01,Niterói,Metropolitana,5790379,275.4,24.7,16,166,0,Crítico,1.0,77.6
+2020,1,2020-01-01,Nova Iguaçu,Baixada,4275148,226.0,24.8,11,97,0,Crítico,1.0,93.7
+2020,1,2020-01-01,Petrópolis,Serrana,1810279,190.3,26.4,12,115,0,Crítico,0.88,72.4
+2020,1,2020-01-01,Teresópolis,Serrana,1920616,125.3,24.7,4,44,0,Alto,0.47,94.3
+2020,1,2020-01-01,Nova Friburgo,Serrana,6244155,234.7,22.5,11,97,1,Crítico,1.0,74.2
+2020,1,2020-01-01,Angra dos Reis,Costa Verde,1358162,138.3,27.0,3,31,0,Alto,0.69,59.6
+2020,1,2020-01-01,Campos dos Goytacazes,Norte Fluminense,1561716,91.5,26.3,3,35,0,Alto,0.62,74.5
+2020,2,2020-02-01,Rio de Janeiro,Metropolitana,4478260,228.0,23.5,9,104,1,Crítico,0.98,84.4
+2020,2,2020-02-01,Niterói,Metropolitana,2177869,173.3,24.8,12,120,0,Crítico,0.86,66.6
+2020,2,2020-02-01,Nova Iguaçu,Baixada,4279743,208.1,24.2,10,88,0,Crítico,1.0,64.8
+2020,2,2020-02-01,Petrópolis,Serrana,723590,176.7,26.7,4,38,0,Alto,0.69,70.0
+2020,2,2020-02-01,Teresópolis,Serrana,5324143,435.7,24.8,28,260,3,Crítico,1.0,56.4
+2020,2,2020-02-01,Nova Friburgo,Serrana,4275321,242.0,26.3,19,209,1,Crítico,1.0,69.3
+2020,2,2020-02-01,Angra dos Reis,Costa Verde,4046125,212.2,25.9,12,128,2,Crítico,0.99,87.1
+2020,2,2020-02-01,Campos dos Goytacazes,Norte Fluminense,120861,182.2,23.5,8,84,0,Crítico,0.7,72.1
+2020,3,2020-03-01,Rio de Janeiro,Metropolitana,6326553,190.1,24.8,4,36,0,Alto,0.8,86.0
+2020,3,2020-03-01,Niterói,Metropolitana,2765177,220.9,26.8,10,104,1,Crítico,1.0,62.9
+2020,3,2020-03-01,Nova Iguaçu,Baixada,800093,116.8,26.6,4,38,0,Alto,0.71,90.0
+2020,3,2020-03-01,Petrópolis,Serrana,5664655,257.1,21.6,15,138,0,Crítico,0.95,58.8
+2020,3,2020-03-01,Teresópolis,Serrana,921102,194.3,23.4,5,57,0,Alto,1.0,77.7
+2020,3,2020-03-01,Nova Friburgo,Serrana,1022245,255.5,22.1,12,131,1,Crítico,1.0,60.4
+2020,3,2020-03-01,Angra dos Reis,Costa Verde,3146874,222.5,21.1,11,95,0,Crítico,0.82,76.9
+2020,3,2020-03-01,Campos dos Goytacazes,Norte Fluminense,3506941,180.2,27.3,12,96,1,Crítico,0.9,71.9
+2020,4,2020-04-01,Rio de Janeiro,Metropolitana,5530971,68.3,25.5,1,9,0,Médio,0.57,82.0
+2020,4,2020-04-01,Niterói,Metropolitana,5813570,131.7,28.2,2,19,0,Médio,0.39,74.3
+2020,4,2020-04-01,Nova Iguaçu,Baixada,4322480,85.9,27.3,1,11,0,Médio,0.38,67.0
+2020,4,2020-04-01,Petrópolis,Serrana,2898492,123.3,23.6,10,89,0,Crítico,0.74,77.0
+2020,4,2020-04-01,Teresópolis,Serrana,5238674,244.9,26.9,13,128,2,Crítico,0.91,74.8
+2020,4,2020-04-01,Nova Friburgo,Serrana,1704326,111.5,23.6,5,51,0,Alto,0.56,57.5
+2020,4,2020-04-01,Angra dos Reis,Costa Verde,5069326,46.4,24.0,2,32,0,Médio,0.39,81.9
+2020,4,2020-04-01,Campos dos Goytacazes,Norte Fluminense,2111135,8.5,22.3,0,0,0,Baixo,0.27,83.8
+2020,5,2020-05-01,Rio de Janeiro,Metropolitana,2955472,45.2,24.8,0,0,0,Baixo,0.18,70.0
+2020,5,2020-05-01,Niterói,Metropolitana,1416435,118.3,23.7,5,46,0,Alto,0.57,63.0
+2020,5,2020-05-01,Nova Iguaçu,Baixada,4407683,9.1,22.9,0,0,0,Baixo,0.1,74.6
+2020,5,2020-05-01,Petrópolis,Serrana,123511,102.7,22.0,3,17,0,Alto,0.47,86.5
+2020,5,2020-05-01,Teresópolis,Serrana,2065626,105.5,23.8,8,75,0,Crítico,0.6,90.4
+2020,5,2020-05-01,Nova Friburgo,Serrana,5724469,114.0,24.2,6,68,0,Crítico,0.91,62.3
+2020,5,2020-05-01,Angra dos Reis,Costa Verde,6433443,97.4,27.4,0,0,0,Baixo,0.43,81.4
+2020,5,2020-05-01,Campos dos Goytacazes,Norte Fluminense,2715496,155.4,25.2,2,12,0,Médio,0.77,90.0
+2020,6,2020-06-01,Rio de Janeiro,Metropolitana,6068290,154.2,23.9,6,61,0,Crítico,0.79,82.8
+2020,6,2020-06-01,Niterói,Metropolitana,5484821,60.7,25.7,1,8,0,Médio,0.4,91.8
+2020,6,2020-06-01,Nova Iguaçu,Baixada,1398315,95.6,26.4,2,16,0,Médio,0.28,83.5
+2020,6,2020-06-01,Petrópolis,Serrana,3246350,58.9,25.9,2,9,0,Médio,0.25,94.2
+2020,6,2020-06-01,Teresópolis,Serrana,1950867,56.4,28.1,1,15,1,Médio,0.41,83.6
+2020,6,2020-06-01,Nova Friburgo,Serrana,724533,75.2,23.7,2,20,0,Médio,0.54,76.8
+2020,6,2020-06-01,Angra dos Reis,Costa Verde,5878183,43.2,25.5,2,21,0,Médio,0.39,72.9
+2020,6,2020-06-01,Campos dos Goytacazes,Norte Fluminense,6296269,116.1,25.0,0,0,0,Baixo,0.39,74.8
+2020,7,2020-07-01,Rio de Janeiro,Metropolitana,5462320,96.9,25.5,2,20,0,Médio,0.52,67.2
+2020,7,2020-07-01,Niterói,Metropolitana,1682509,97.3,25.0,3,35,1,Alto,0.52,84.0
+2020,7,2020-07-01,Nova Iguaçu,Baixada,2860926,52.6,25.2,1,4,0,Médio,0.29,60.0
+2020,7,2020-07-01,Petrópolis,Serrana,1014385,114.9,24.0,2,19,0,Médio,0.35,93.4
+2020,7,2020-07-01,Teresópolis,Serrana,3979224,96.9,23.4,2,16,0,Médio,0.61,76.5
+2020,7,2020-07-01,Nova Friburgo,Serrana,174882,134.9,23.6,6,65,0,Crítico,0.44,66.7
+2020,7,2020-07-01,Angra dos Reis,Costa Verde,5201394,40.6,26.0,3,28,0,Alto,0.31,88.9
+2020,7,2020-07-01,Campos dos Goytacazes,Norte Fluminense,1542269,93.6,22.4,3,25,0,Alto,0.72,63.6
+2020,8,2020-08-01,Rio de Janeiro,Metropolitana,2209279,36.3,22.0,2,22,0,Médio,0.36,69.8
+2020,8,2020-08-01,Niterói,Metropolitana,6204946,60.9,23.0,0,0,0,Baixo,0.31,57.3
+2020,8,2020-08-01,Nova Iguaçu,Baixada,3723755,78.1,27.3,2,22,0,Médio,0.38,58.9
+2020,8,2020-08-01,Petrópolis,Serrana,1751382,297.2,22.2,20,204,0,Crítico,1.0,90.7
+2020,8,2020-08-01,Teresópolis,Serrana,4427728,160.8,23.9,4,40,0,Alto,0.68,75.8
+2020,8,2020-08-01,Nova Friburgo,Serrana,6467884,0.0,26.5,0,0,0,Baixo,0.21,88.4
+2020,8,2020-08-01,Angra dos Reis,Costa Verde,3220499,88.3,23.9,1,6,0,Médio,0.36,91.2
+2020,8,2020-08-01,Campos dos Goytacazes,Norte Fluminense,2066416,58.0,22.4,0,0,0,Baixo,0.47,94.6
+2020,9,2020-09-01,Rio de Janeiro,Metropolitana,5808730,69.3,24.9,2,23,0,Médio,0.34,68.1
+2020,9,2020-09-01,Niterói,Metropolitana,2305795,26.7,25.0,0,0,0,Baixo,0.46,94.9
+2020,9,2020-09-01,Nova Iguaçu,Baixada,5492804,0.0,22.7,0,0,0,Baixo,0.29,58.4
+2020,9,2020-09-01,Petrópolis,Serrana,5515901,141.0,27.5,3,33,0,Alto,0.71,89.2
+2020,9,2020-09-01,Teresópolis,Serrana,5933656,4.3,25.7,0,0,0,Baixo,0.0,61.4
+2020,9,2020-09-01,Nova Friburgo,Serrana,512465,104.7,23.7,7,64,1,Crítico,0.49,79.9
+2020,9,2020-09-01,Angra dos Reis,Costa Verde,4512479,73.6,25.7,1,14,0,Médio,0.65,85.5
+2020,9,2020-09-01,Campos dos Goytacazes,Norte Fluminense,1203369,81.7,24.9,1,8,0,Médio,0.55,84.0
+2020,10,2020-10-01,Rio de Janeiro,Metropolitana,3907957,41.3,20.8,0,0,0,Baixo,0.44,66.5
+2020,10,2020-10-01,Niterói,Metropolitana,3364843,128.4,25.6,2,18,0,Médio,0.6,58.6
+2020,10,2020-10-01,Nova Iguaçu,Baixada,5300398,140.7,27.9,8,72,0,Crítico,0.76,77.9
+2020,10,2020-10-01,Petrópolis,Serrana,4132775,92.9,20.7,6,49,1,Crítico,0.57,79.5
+2020,10,2020-10-01,Teresópolis,Serrana,3797246,107.2,25.1,7,57,0,Crítico,0.58,92.0
+2020,10,2020-10-01,Nova Friburgo,Serrana,3333372,101.9,19.9,2,26,0,Médio,0.41,94.5
+2020,10,2020-10-01,Angra dos Reis,Costa Verde,2471219,184.8,23.6,8,84,0,Crítico,1.0,68.9
+2020,10,2020-10-01,Campos dos Goytacazes,Norte Fluminense,3507010,179.5,26.0,4,40,0,Alto,0.56,55.4
+2020,11,2020-11-01,Rio de Janeiro,Metropolitana,589968,123.7,25.0,3,32,0,Alto,0.73,92.2
+2020,11,2020-11-01,Niterói,Metropolitana,3376121,118.6,22.6,4,44,0,Alto,0.71,72.3
+2020,11,2020-11-01,Nova Iguaçu,Baixada,4674034,90.8,25.7,1,7,0,Médio,0.62,78.5
+2020,11,2020-11-01,Petrópolis,Serrana,734556,17.4,24.8,0,0,0,Baixo,0.0,75.0
+2020,11,2020-11-01,Teresópolis,Serrana,3634683,199.3,28.4,14,129,2,Crítico,0.97,67.0
+2020,11,2020-11-01,Nova Friburgo,Serrana,943538,82.5,22.3,0,0,0,Baixo,0.39,77.9
+2020,11,2020-11-01,Angra dos Reis,Costa Verde,3507915,73.6,27.5,1,12,0,Médio,0.42,59.9
+2020,11,2020-11-01,Campos dos Goytacazes,Norte Fluminense,5265989,126.7,22.0,4,48,0,Alto,0.76,57.9
+2020,12,2020-12-01,Rio de Janeiro,Metropolitana,831824,163.4,22.1,10,97,0,Crítico,0.7,79.7
+2020,12,2020-12-01,Niterói,Metropolitana,2338037,141.0,22.3,4,47,0,Alto,0.59,85.1
+2020,12,2020-12-01,Nova Iguaçu,Baixada,2433411,147.3,23.0,2,23,1,Médio,0.61,63.0
+2020,12,2020-12-01,Petrópolis,Serrana,905445,247.9,23.2,15,128,1,Crítico,1.0,69.3
+2020,12,2020-12-01,Teresópolis,Serrana,3256998,244.8,22.7,11,121,0,Crítico,1.0,57.2
+2020,12,2020-12-01,Nova Friburgo,Serrana,992143,207.5,23.5,10,100,0,Crítico,0.74,72.7
+2020,12,2020-12-01,Angra dos Reis,Costa Verde,3306219,235.3,22.5,5,54,0,Alto,0.98,93.2
+2020,12,2020-12-01,Campos dos Goytacazes,Norte Fluminense,3508928,186.4,26.3,4,35,0,Alto,0.67,60.5
+2021,1,2021-01-01,Rio de Janeiro,Metropolitana,3099079,243.7,22.8,5,50,0,Alto,0.88,64.0
+2021,1,2021-01-01,Niterói,Metropolitana,382103,220.0,22.2,8,98,0,Crítico,0.82,63.9
+2021,1,2021-01-01,Nova Iguaçu,Baixada,4372202,176.0,23.7,10,108,0,Crítico,0.72,88.9
+2021,1,2021-01-01,Petrópolis,Serrana,4548488,232.9,22.8,20,196,3,Crítico,1.0,59.9
+2021,1,2021-01-01,Teresópolis,Serrana,1842208,331.6,20.3,31,293,1,Crítico,1.0,73.3
+2021,1,2021-01-01,Nova Friburgo,Serrana,1162525,221.6,22.9,13,136,1,Crítico,0.99,75.4
+2021,1,2021-01-01,Angra dos Reis,Costa Verde,1636980,261.6,26.3,14,138,1,Crítico,1.0,79.6
+2021,1,2021-01-01,Campos dos Goytacazes,Norte Fluminense,2883914,261.6,25.6,11,104,0,Crítico,1.0,65.0
+2021,2,2021-02-01,Rio de Janeiro,Metropolitana,3785699,250.3,21.7,11,112,1,Crítico,1.0,55.5
+2021,2,2021-02-01,Niterói,Metropolitana,3934942,188.9,26.1,7,59,0,Crítico,0.83,77.3
+2021,2,2021-02-01,Nova Iguaçu,Baixada,6171904,213.8,23.6,11,111,2,Crítico,0.94,56.4
+2021,2,2021-02-01,Petrópolis,Serrana,925567,372.4,23.8,22,220,1,Crítico,1.0,93.7
+2021,2,2021-02-01,Teresópolis,Serrana,1493043,221.7,21.3,14,145,4,Crítico,1.0,72.8
+2021,2,2021-02-01,Nova Friburgo,Serrana,878117,169.7,22.3,7,81,0,Crítico,0.66,92.6
+2021,2,2021-02-01,Angra dos Reis,Costa Verde,5506679,132.5,23.8,2,21,0,Médio,0.57,81.1
+2021,2,2021-02-01,Campos dos Goytacazes,Norte Fluminense,628662,200.4,28.9,9,78,0,Crítico,0.75,88.3
+2021,3,2021-03-01,Rio de Janeiro,Metropolitana,6259397,278.9,22.8,6,66,0,Crítico,1.0,58.7
+2021,3,2021-03-01,Niterói,Metropolitana,5861204,177.4,27.8,2,24,0,Médio,0.65,90.9
+2021,3,2021-03-01,Nova Iguaçu,Baixada,2836732,321.2,26.1,10,111,0,Crítico,1.0,95.0
+2021,3,2021-03-01,Petrópolis,Serrana,4561021,286.1,26.9,18,171,2,Crítico,1.0,56.4
+2021,3,2021-03-01,Teresópolis,Serrana,4342801,255.7,27.7,15,160,1,Crítico,1.0,93.2
+2021,3,2021-03-01,Nova Friburgo,Serrana,1725503,321.3,23.9,20,200,0,Crítico,1.0,86.6
+2021,3,2021-03-01,Angra dos Reis,Costa Verde,3396531,213.5,24.3,6,63,0,Crítico,0.87,89.9
+2021,3,2021-03-01,Campos dos Goytacazes,Norte Fluminense,4290438,172.2,23.3,7,65,2,Crítico,0.48,85.8
+2021,4,2021-04-01,Rio de Janeiro,Metropolitana,2835329,69.2,24.9,2,20,1,Médio,0.42,61.0
+2021,4,2021-04-01,Niterói,Metropolitana,3908184,112.9,27.0,5,52,0,Alto,0.36,76.7
+2021,4,2021-04-01,Nova Iguaçu,Baixada,5484543,16.7,26.5,2,26,0,Médio,0.29,94.3
+2021,4,2021-04-01,Petrópolis,Serrana,1525761,194.5,26.3,15,145,1,Crítico,0.86,88.0
+2021,4,2021-04-01,Teresópolis,Serrana,4901913,81.2,22.7,3,29,0,Alto,0.37,60.0
+2021,4,2021-04-01,Nova Friburgo,Serrana,5712062,219.7,24.7,15,154,0,Crítico,0.87,92.3
+2021,4,2021-04-01,Angra dos Reis,Costa Verde,3792299,62.5,25.0,5,51,0,Alto,0.54,73.6
+2021,4,2021-04-01,Campos dos Goytacazes,Norte Fluminense,4769023,84.3,21.5,1,11,0,Médio,0.38,56.6
+2021,5,2021-05-01,Rio de Janeiro,Metropolitana,3954887,149.5,22.7,6,68,1,Crítico,0.59,71.7
+2021,5,2021-05-01,Niterói,Metropolitana,1082522,148.1,23.3,8,73,0,Crítico,0.59,94.4
+2021,5,2021-05-01,Nova Iguaçu,Baixada,4852827,129.0,28.3,5,42,0,Alto,0.64,83.7
+2021,5,2021-05-01,Petrópolis,Serrana,165854,145.8,28.5,5,50,0,Alto,0.71,82.5
+2021,5,2021-05-01,Teresópolis,Serrana,2991089,52.2,22.9,5,55,0,Alto,0.37,61.2
+2021,5,2021-05-01,Nova Friburgo,Serrana,3999423,106.4,23.5,5,56,1,Alto,0.25,81.1
+2021,5,2021-05-01,Angra dos Reis,Costa Verde,2107845,46.1,24.9,2,17,0,Médio,0.44,59.7
+2021,5,2021-05-01,Campos dos Goytacazes,Norte Fluminense,583452,139.9,26.2,7,77,0,Crítico,0.67,71.2
+2021,6,2021-06-01,Rio de Janeiro,Metropolitana,2012788,63.1,25.3,1,12,0,Médio,0.21,77.7
+2021,6,2021-06-01,Niterói,Metropolitana,5495652,156.8,24.7,2,14,0,Médio,0.74,70.7
+2021,6,2021-06-01,Nova Iguaçu,Baixada,2681188,196.1,23.4,9,89,0,Crítico,0.94,86.9
+2021,6,2021-06-01,Petrópolis,Serrana,2824598,114.7,22.5,11,116,0,Crítico,0.67,55.7
+2021,6,2021-06-01,Teresópolis,Serrana,5640737,37.1,25.7,3,40,0,Alto,0.34,71.4
+2021,6,2021-06-01,Nova Friburgo,Serrana,5209136,132.1,23.2,6,52,1,Crítico,0.76,88.1
+2021,6,2021-06-01,Angra dos Reis,Costa Verde,2727491,21.0,27.2,0,0,0,Baixo,0.31,91.5
+2021,6,2021-06-01,Campos dos Goytacazes,Norte Fluminense,3948480,30.5,22.6,0,0,0,Baixo,0.16,69.5
+2021,7,2021-07-01,Rio de Janeiro,Metropolitana,1254185,71.9,25.0,2,20,0,Médio,0.55,55.9
+2021,7,2021-07-01,Niterói,Metropolitana,2241088,67.2,27.1,0,0,0,Baixo,0.4,67.6
+2021,7,2021-07-01,Nova Iguaçu,Baixada,1428640,62.8,23.4,1,12,0,Médio,0.33,95.0
+2021,7,2021-07-01,Petrópolis,Serrana,593837,79.5,25.0,4,37,0,Alto,0.49,81.4
+2021,7,2021-07-01,Teresópolis,Serrana,4308090,126.7,29.8,8,64,0,Crítico,0.6,66.5
+2021,7,2021-07-01,Nova Friburgo,Serrana,5620083,101.7,23.9,3,31,0,Alto,0.67,89.1
+2021,7,2021-07-01,Angra dos Reis,Costa Verde,424917,104.1,22.8,2,21,0,Médio,0.52,74.1
+2021,7,2021-07-01,Campos dos Goytacazes,Norte Fluminense,2730832,142.6,25.5,1,12,1,Médio,0.63,74.6
+2021,8,2021-08-01,Rio de Janeiro,Metropolitana,2379585,0.0,27.4,0,0,0,Baixo,0.29,79.4
+2021,8,2021-08-01,Niterói,Metropolitana,4102052,0.0,21.7,0,0,0,Baixo,0.01,80.1
+2021,8,2021-08-01,Nova Iguaçu,Baixada,3943590,57.8,26.6,1,10,0,Médio,0.47,59.3
+2021,8,2021-08-01,Petrópolis,Serrana,2611269,91.9,21.1,4,42,0,Alto,0.56,62.2
+2021,8,2021-08-01,Teresópolis,Serrana,4547509,126.9,22.5,7,72,1,Crítico,0.56,76.0
+2021,8,2021-08-01,Nova Friburgo,Serrana,283882,87.0,26.5,2,25,0,Médio,0.51,64.1
+2021,8,2021-08-01,Angra dos Reis,Costa Verde,4198402,49.0,23.9,1,12,0,Médio,0.16,77.8
+2021,8,2021-08-01,Campos dos Goytacazes,Norte Fluminense,5890664,35.6,28.3,1,12,0,Médio,0.26,80.8
+2021,9,2021-09-01,Rio de Janeiro,Metropolitana,1190522,107.1,26.2,4,50,0,Alto,0.46,69.2
+2021,9,2021-09-01,Niterói,Metropolitana,1103779,66.9,28.3,2,27,0,Médio,0.28,62.5
+2021,9,2021-09-01,Nova Iguaçu,Baixada,1530857,52.6,26.1,1,7,0,Médio,0.08,75.2
+2021,9,2021-09-01,Petrópolis,Serrana,1351040,30.8,27.2,0,0,0,Baixo,0.38,89.6
+2021,9,2021-09-01,Teresópolis,Serrana,273894,140.1,25.4,12,110,0,Crítico,0.94,69.9
+2021,9,2021-09-01,Nova Friburgo,Serrana,5464565,36.9,26.3,1,5,0,Médio,0.25,73.8
+2021,9,2021-09-01,Angra dos Reis,Costa Verde,6129771,118.1,24.7,3,29,0,Alto,0.68,82.5
+2021,9,2021-09-01,Campos dos Goytacazes,Norte Fluminense,170650,149.2,23.2,5,45,0,Alto,0.74,78.7
+2021,10,2021-10-01,Rio de Janeiro,Metropolitana,2639766,84.0,27.0,0,0,0,Baixo,0.33,77.2
+2021,10,2021-10-01,Niterói,Metropolitana,6395996,63.9,27.0,2,19,0,Médio,0.16,79.0
+2021,10,2021-10-01,Nova Iguaçu,Baixada,4445802,102.5,25.6,3,30,0,Alto,0.4,84.4
+2021,10,2021-10-01,Petrópolis,Serrana,4920986,96.2,27.2,3,28,0,Alto,0.58,60.0
+2021,10,2021-10-01,Teresópolis,Serrana,6421609,158.1,26.8,13,123,0,Crítico,0.73,57.4
+2021,10,2021-10-01,Nova Friburgo,Serrana,5338590,92.1,26.8,4,65,0,Alto,0.29,91.2
+2021,10,2021-10-01,Angra dos Reis,Costa Verde,4812283,63.6,26.3,2,25,0,Médio,0.49,85.2
+2021,10,2021-10-01,Campos dos Goytacazes,Norte Fluminense,1227252,135.0,22.7,4,43,0,Alto,0.8,80.0
+2021,11,2021-11-01,Rio de Janeiro,Metropolitana,888857,73.4,27.5,1,7,0,Médio,0.38,84.6
+2021,11,2021-11-01,Niterói,Metropolitana,3933819,95.4,25.2,3,21,0,Alto,0.47,68.3
+2021,11,2021-11-01,Nova Iguaçu,Baixada,5349241,74.6,22.2,0,0,0,Baixo,0.32,67.7
+2021,11,2021-11-01,Petrópolis,Serrana,3636954,88.0,26.9,4,32,0,Alto,0.38,78.0
+2021,11,2021-11-01,Teresópolis,Serrana,4864630,68.0,24.4,1,6,0,Médio,0.21,78.7
+2021,11,2021-11-01,Nova Friburgo,Serrana,6386246,109.3,25.4,3,38,0,Alto,0.49,75.5
+2021,11,2021-11-01,Angra dos Reis,Costa Verde,1609845,126.8,22.4,6,49,0,Crítico,0.63,60.3
+2021,11,2021-11-01,Campos dos Goytacazes,Norte Fluminense,3105409,127.1,25.4,7,63,0,Crítico,0.72,56.5
+2021,12,2021-12-01,Rio de Janeiro,Metropolitana,4187076,140.5,24.9,2,23,0,Médio,0.85,94.0
+2021,12,2021-12-01,Niterói,Metropolitana,1468590,213.2,29.3,1,16,1,Médio,0.82,62.7
+2021,12,2021-12-01,Nova Iguaçu,Baixada,5678425,332.3,26.7,16,171,3,Crítico,1.0,57.2
+2021,12,2021-12-01,Petrópolis,Serrana,2764915,146.0,28.0,9,93,1,Crítico,0.48,79.3
+2021,12,2021-12-01,Teresópolis,Serrana,384875,289.2,25.6,21,180,0,Crítico,1.0,64.7
+2021,12,2021-12-01,Nova Friburgo,Serrana,4206612,350.3,24.4,23,268,3,Crítico,1.0,85.6
+2021,12,2021-12-01,Angra dos Reis,Costa Verde,544915,302.8,25.5,17,162,1,Crítico,1.0,85.6
+2021,12,2021-12-01,Campos dos Goytacazes,Norte Fluminense,2791711,229.4,25.1,4,50,0,Alto,0.91,69.2
+2022,1,2022-01-01,Rio de Janeiro,Metropolitana,3643551,139.3,23.3,6,66,0,Crítico,0.68,77.7
+2022,1,2022-01-01,Niterói,Metropolitana,1159452,222.4,23.8,4,48,0,Alto,0.97,84.5
+2022,1,2022-01-01,Nova Iguaçu,Baixada,872885,187.7,24.8,4,44,0,Alto,0.69,65.3
+2022,1,2022-01-01,Petrópolis,Serrana,2500175,310.6,26.2,29,284,2,Crítico,1.0,84.5
+2022,1,2022-01-01,Teresópolis,Serrana,1401756,205.5,25.7,11,115,0,Crítico,0.93,80.1
+2022,1,2022-01-01,Nova Friburgo,Serrana,1594465,301.5,23.9,17,184,1,Crítico,1.0,91.4
+2022,1,2022-01-01,Angra dos Reis,Costa Verde,3913264,177.7,21.7,2,16,0,Médio,0.82,85.8
+2022,1,2022-01-01,Campos dos Goytacazes,Norte Fluminense,2609820,108.4,22.0,2,22,0,Médio,0.58,81.1
+2022,2,2022-02-01,Rio de Janeiro,Metropolitana,544914,128.0,27.7,1,19,0,Médio,0.75,88.1
+2022,2,2022-02-01,Niterói,Metropolitana,3873032,261.7,26.8,4,36,0,Alto,1.0,57.6
+2022,2,2022-02-01,Nova Iguaçu,Baixada,4523990,196.7,21.0,7,57,1,Crítico,0.93,58.2
+2022,2,2022-02-01,Petrópolis,Serrana,940221,310.1,26.6,19,206,0,Crítico,1.0,58.2
+2022,2,2022-02-01,Teresópolis,Serrana,5688426,241.4,27.4,17,171,0,Crítico,1.0,57.8
+2022,2,2022-02-01,Nova Friburgo,Serrana,2948734,128.7,25.3,5,45,2,Alto,0.69,69.1
+2022,2,2022-02-01,Angra dos Reis,Costa Verde,3085732,138.6,24.8,5,64,1,Alto,0.85,83.2
+2022,2,2022-02-01,Campos dos Goytacazes,Norte Fluminense,865217,121.9,24.6,2,22,0,Médio,0.48,61.4
+2022,3,2022-03-01,Rio de Janeiro,Metropolitana,3795623,246.1,21.3,9,103,0,Crítico,1.0,60.5
+2022,3,2022-03-01,Niterói,Metropolitana,3134535,261.7,22.4,20,192,0,Crítico,1.0,65.5
+2022,3,2022-03-01,Nova Iguaçu,Baixada,121646,259.0,26.1,5,43,0,Alto,1.0,68.1
+2022,3,2022-03-01,Petrópolis,Serrana,701415,279.0,23.1,14,106,0,Crítico,1.0,95.0
+2022,3,2022-03-01,Teresópolis,Serrana,1188735,353.1,21.9,34,336,1,Crítico,1.0,74.5
+2022,3,2022-03-01,Nova Friburgo,Serrana,3267700,145.1,25.0,13,136,1,Crítico,0.7,65.1
+2022,3,2022-03-01,Angra dos Reis,Costa Verde,551482,188.3,27.1,6,76,0,Crítico,0.98,56.2
+2022,3,2022-03-01,Campos dos Goytacazes,Norte Fluminense,2030450,154.4,23.9,4,48,1,Alto,0.46,80.1
+2022,4,2022-04-01,Rio de Janeiro,Metropolitana,4283446,138.1,25.4,4,48,0,Alto,0.66,60.9
+2022,4,2022-04-01,Niterói,Metropolitana,1716555,42.7,25.2,0,0,0,Baixo,0.08,79.9
+2022,4,2022-04-01,Nova Iguaçu,Baixada,3226935,47.2,24.3,2,19,0,Médio,0.17,56.6
+2022,4,2022-04-01,Petrópolis,Serrana,3300190,59.0,21.2,1,9,0,Médio,0.29,57.4
+2022,4,2022-04-01,Teresópolis,Serrana,2711751,142.7,28.4,7,71,0,Crítico,0.79,94.4
+2022,4,2022-04-01,Nova Friburgo,Serrana,347991,32.1,28.2,0,0,0,Baixo,0.29,87.4
+2022,4,2022-04-01,Angra dos Reis,Costa Verde,5082530,84.9,23.8,1,7,0,Médio,0.48,85.9
+2022,4,2022-04-01,Campos dos Goytacazes,Norte Fluminense,5643040,85.0,24.0,4,34,0,Alto,0.45,62.0
+2022,5,2022-05-01,Rio de Janeiro,Metropolitana,1583809,104.1,24.8,1,9,0,Médio,0.52,84.5
+2022,5,2022-05-01,Niterói,Metropolitana,2737069,138.3,22.7,5,45,0,Alto,0.63,80.8
+2022,5,2022-05-01,Nova Iguaçu,Baixada,4072642,45.8,24.0,1,8,0,Médio,0.57,65.4
+2022,5,2022-05-01,Petrópolis,Serrana,1413800,3.7,21.6,0,0,0,Baixo,0.15,68.8
+2022,5,2022-05-01,Teresópolis,Serrana,2739540,133.0,23.3,6,50,0,Crítico,0.73,78.5
+2022,5,2022-05-01,Nova Friburgo,Serrana,6170313,84.3,27.0,7,62,0,Crítico,0.47,74.1
+2022,5,2022-05-01,Angra dos Reis,Costa Verde,133533,91.8,20.0,2,14,0,Médio,0.56,76.6
+2022,5,2022-05-01,Campos dos Goytacazes,Norte Fluminense,1184853,141.7,22.7,5,53,1,Alto,0.69,86.5
+2022,6,2022-06-01,Rio de Janeiro,Metropolitana,3973547,33.6,29.0,1,12,0,Médio,0.2,56.1
+2022,6,2022-06-01,Niterói,Metropolitana,770503,126.8,27.1,2,21,0,Médio,0.55,86.7
+2022,6,2022-06-01,Nova Iguaçu,Baixada,6175544,138.8,24.3,3,26,0,Alto,0.7,79.0
+2022,6,2022-06-01,Petrópolis,Serrana,5146142,101.1,24.0,2,23,0,Médio,0.41,80.7
+2022,6,2022-06-01,Teresópolis,Serrana,4704021,136.1,27.7,7,89,0,Crítico,0.67,76.3
+2022,6,2022-06-01,Nova Friburgo,Serrana,1262805,147.2,22.8,5,53,0,Alto,0.75,82.9
+2022,6,2022-06-01,Angra dos Reis,Costa Verde,1823806,191.2,25.7,5,52,0,Alto,0.84,69.5
+2022,6,2022-06-01,Campos dos Goytacazes,Norte Fluminense,719633,74.3,24.6,2,23,0,Médio,0.52,63.3
+2022,7,2022-07-01,Rio de Janeiro,Metropolitana,5015721,10.5,21.5,0,0,0,Baixo,0.33,79.1
+2022,7,2022-07-01,Niterói,Metropolitana,3996719,186.4,25.7,7,59,1,Crítico,1.0,90.3
+2022,7,2022-07-01,Nova Iguaçu,Baixada,302140,90.5,24.9,2,22,0,Médio,0.32,72.1
+2022,7,2022-07-01,Petrópolis,Serrana,3874173,72.9,22.7,1,9,0,Médio,0.41,83.6
+2022,7,2022-07-01,Teresópolis,Serrana,312140,43.3,22.6,1,8,0,Médio,0.23,89.7
+2022,7,2022-07-01,Nova Friburgo,Serrana,3758621,57.4,24.6,2,15,0,Médio,0.41,63.4
+2022,7,2022-07-01,Angra dos Reis,Costa Verde,2902920,57.7,26.2,0,0,0,Baixo,0.4,73.6
+2022,7,2022-07-01,Campos dos Goytacazes,Norte Fluminense,2468581,169.9,25.9,2,18,0,Médio,0.62,87.9
+2022,8,2022-08-01,Rio de Janeiro,Metropolitana,2992528,64.4,23.4,6,52,0,Crítico,0.47,83.4
+2022,8,2022-08-01,Niterói,Metropolitana,5294026,35.3,21.5,0,0,0,Baixo,0.29,82.6
+2022,8,2022-08-01,Nova Iguaçu,Baixada,5983760,137.6,21.9,6,67,0,Crítico,0.45,72.5
+2022,8,2022-08-01,Petrópolis,Serrana,749122,102.1,24.1,4,35,0,Alto,0.44,80.2
+2022,8,2022-08-01,Teresópolis,Serrana,1444166,139.9,23.8,6,58,1,Crítico,0.75,73.0
+2022,8,2022-08-01,Nova Friburgo,Serrana,2903087,39.6,26.4,0,0,0,Baixo,0.21,68.9
+2022,8,2022-08-01,Angra dos Reis,Costa Verde,5159722,76.9,19.0,0,0,0,Baixo,0.43,92.3
+2022,8,2022-08-01,Campos dos Goytacazes,Norte Fluminense,5573142,129.2,26.3,0,0,0,Baixo,0.43,66.6
+2022,9,2022-09-01,Rio de Janeiro,Metropolitana,4032492,38.2,24.8,0,0,0,Baixo,0.42,76.9
+2022,9,2022-09-01,Niterói,Metropolitana,531794,18.4,25.8,0,0,0,Baixo,0.0,69.5
+2022,9,2022-09-01,Nova Iguaçu,Baixada,2014232,80.0,27.6,1,16,0,Médio,0.4,79.9
+2022,9,2022-09-01,Petrópolis,Serrana,316461,49.6,23.4,1,6,0,Médio,0.47,75.7
+2022,9,2022-09-01,Teresópolis,Serrana,6330744,133.7,27.7,7,71,0,Crítico,0.61,82.2
+2022,9,2022-09-01,Nova Friburgo,Serrana,203522,196.7,27.0,11,127,2,Crítico,0.98,64.0
+2022,9,2022-09-01,Angra dos Reis,Costa Verde,5078807,139.5,26.9,3,28,0,Alto,0.61,76.3
+2022,9,2022-09-01,Campos dos Goytacazes,Norte Fluminense,1802428,86.4,25.7,2,25,0,Médio,0.22,56.9
+2022,10,2022-10-01,Rio de Janeiro,Metropolitana,2586562,157.0,23.1,4,51,0,Alto,0.83,62.8
+2022,10,2022-10-01,Niterói,Metropolitana,3146241,144.9,23.9,7,67,0,Crítico,0.73,72.8
+2022,10,2022-10-01,Nova Iguaçu,Baixada,4212578,48.4,25.4,0,0,0,Baixo,0.19,64.3
+2022,10,2022-10-01,Petrópolis,Serrana,1188458,128.3,26.2,4,35,1,Alto,0.56,58.8
+2022,10,2022-10-01,Teresópolis,Serrana,3938168,70.0,26.4,2,22,0,Médio,0.22,71.7
+2022,10,2022-10-01,Nova Friburgo,Serrana,3133918,91.4,23.3,2,25,0,Médio,0.64,82.4
+2022,10,2022-10-01,Angra dos Reis,Costa Verde,6224885,52.0,24.8,1,13,0,Médio,0.49,81.3
+2022,10,2022-10-01,Campos dos Goytacazes,Norte Fluminense,1295424,88.1,23.1,2,25,0,Médio,0.42,91.3
+2022,11,2022-11-01,Rio de Janeiro,Metropolitana,4876071,66.9,25.1,1,11,0,Médio,0.45,70.8
+2022,11,2022-11-01,Niterói,Metropolitana,5667726,148.3,21.8,6,77,1,Crítico,0.46,77.5
+2022,11,2022-11-01,Nova Iguaçu,Baixada,3205763,110.7,23.8,4,43,0,Alto,0.67,74.7
+2022,11,2022-11-01,Petrópolis,Serrana,3774261,137.4,22.2,5,43,0,Alto,0.7,67.4
+2022,11,2022-11-01,Teresópolis,Serrana,5321399,120.2,22.7,3,29,0,Alto,0.55,72.0
+2022,11,2022-11-01,Nova Friburgo,Serrana,5908479,62.2,23.2,3,39,0,Alto,0.38,85.4
+2022,11,2022-11-01,Angra dos Reis,Costa Verde,4408613,211.7,23.7,11,100,0,Crítico,0.8,74.2
+2022,11,2022-11-01,Campos dos Goytacazes,Norte Fluminense,6483134,151.3,29.0,4,32,0,Alto,0.55,75.5
+2022,12,2022-12-01,Rio de Janeiro,Metropolitana,5982231,112.7,25.2,5,48,1,Alto,0.58,84.3
+2022,12,2022-12-01,Niterói,Metropolitana,2436670,214.2,26.0,3,42,0,Alto,0.98,61.2
+2022,12,2022-12-01,Nova Iguaçu,Baixada,4613210,122.9,25.1,6,71,1,Crítico,0.74,74.4
+2022,12,2022-12-01,Petrópolis,Serrana,4715017,305.3,21.6,15,151,0,Crítico,1.0,93.0
+2022,12,2022-12-01,Teresópolis,Serrana,5961289,338.4,26.9,26,285,3,Crítico,1.0,62.9
+2022,12,2022-12-01,Nova Friburgo,Serrana,3720990,242.0,24.9,17,170,0,Crítico,1.0,80.1
+2022,12,2022-12-01,Angra dos Reis,Costa Verde,6091474,225.9,25.1,9,94,0,Crítico,1.0,92.7
+2022,12,2022-12-01,Campos dos Goytacazes,Norte Fluminense,5485788,214.6,28.0,14,151,1,Crítico,1.0,78.4
+2023,1,2023-01-01,Rio de Janeiro,Metropolitana,5057659,173.6,27.0,5,53,0,Alto,0.91,70.8
+2023,1,2023-01-01,Niterói,Metropolitana,5022635,140.2,21.0,2,22,1,Médio,0.68,59.5
+2023,1,2023-01-01,Nova Iguaçu,Baixada,3700613,244.7,25.9,7,59,0,Crítico,1.0,91.5
+2023,1,2023-01-01,Petrópolis,Serrana,4763551,312.9,21.4,10,92,0,Crítico,1.0,92.7
+2023,1,2023-01-01,Teresópolis,Serrana,475272,240.5,25.8,18,180,2,Crítico,0.96,84.1
+2023,1,2023-01-01,Nova Friburgo,Serrana,2751851,241.6,28.1,12,138,0,Crítico,0.95,84.8
+2023,1,2023-01-01,Angra dos Reis,Costa Verde,6323326,235.0,27.4,6,53,0,Crítico,0.81,56.8
+2023,1,2023-01-01,Campos dos Goytacazes,Norte Fluminense,2643555,227.0,22.4,3,33,0,Alto,0.99,58.0
+2023,2,2023-02-01,Rio de Janeiro,Metropolitana,5206331,150.7,24.4,3,29,0,Alto,0.75,82.0
+2023,2,2023-02-01,Niterói,Metropolitana,1582341,283.7,28.4,14,133,0,Crítico,1.0,87.4
+2023,2,2023-02-01,Nova Iguaçu,Baixada,6195960,109.0,22.9,2,24,1,Médio,0.53,63.8
+2023,2,2023-02-01,Petrópolis,Serrana,599643,225.6,25.5,13,129,2,Crítico,1.0,63.9
+2023,2,2023-02-01,Teresópolis,Serrana,1123640,168.4,24.2,4,36,0,Alto,0.77,85.8
+2023,2,2023-02-01,Nova Friburgo,Serrana,2150782,138.3,29.8,6,58,1,Crítico,0.29,81.6
+2023,2,2023-02-01,Angra dos Reis,Costa Verde,1098177,266.5,24.5,10,103,0,Crítico,0.96,69.9
+2023,2,2023-02-01,Campos dos Goytacazes,Norte Fluminense,5367525,201.0,25.3,6,57,0,Crítico,0.87,56.1
+2023,3,2023-03-01,Rio de Janeiro,Metropolitana,2602929,210.5,27.0,3,25,0,Alto,0.91,94.5
+2023,3,2023-03-01,Niterói,Metropolitana,4527876,244.4,25.3,12,113,0,Crítico,1.0,95.0
+2023,3,2023-03-01,Nova Iguaçu,Baixada,5473198,179.0,27.5,6,56,1,Crítico,0.57,91.7
+2023,3,2023-03-01,Petrópolis,Serrana,3555499,292.4,23.7,21,219,1,Crítico,1.0,87.0
+2023,3,2023-03-01,Teresópolis,Serrana,1387229,211.7,24.2,10,110,3,Crítico,0.77,57.5
+2023,3,2023-03-01,Nova Friburgo,Serrana,2715962,232.3,28.7,15,136,1,Crítico,0.71,72.6
+2023,3,2023-03-01,Angra dos Reis,Costa Verde,1570797,181.3,27.4,7,66,1,Crítico,0.86,75.1
+2023,3,2023-03-01,Campos dos Goytacazes,Norte Fluminense,6338426,127.5,27.3,5,52,0,Alto,0.51,61.8
+2023,4,2023-04-01,Rio de Janeiro,Metropolitana,5381896,153.5,24.4,4,37,0,Alto,0.73,85.5
+2023,4,2023-04-01,Niterói,Metropolitana,2928448,27.8,23.4,1,8,0,Médio,0.26,61.0
+2023,4,2023-04-01,Nova Iguaçu,Baixada,1522185,112.5,26.3,4,56,0,Alto,0.32,59.3
+2023,4,2023-04-01,Petrópolis,Serrana,5180006,109.0,25.8,6,53,0,Crítico,0.46,60.3
+2023,4,2023-04-01,Teresópolis,Serrana,3083613,6.5,26.4,0,0,0,Baixo,0.28,68.6
+2023,4,2023-04-01,Nova Friburgo,Serrana,280711,79.2,26.3,3,35,0,Alto,0.4,75.4
+2023,4,2023-04-01,Angra dos Reis,Costa Verde,1650582,41.5,23.4,1,10,0,Médio,0.43,74.2
+2023,4,2023-04-01,Campos dos Goytacazes,Norte Fluminense,4048327,96.9,21.9,1,7,0,Médio,0.45,82.3
+2023,5,2023-05-01,Rio de Janeiro,Metropolitana,5126319,159.5,26.6,5,49,2,Alto,0.97,67.2
+2023,5,2023-05-01,Niterói,Metropolitana,5190609,163.7,27.7,7,75,0,Crítico,0.95,90.8
+2023,5,2023-05-01,Nova Iguaçu,Baixada,6278116,139.0,24.1,3,30,0,Alto,0.63,87.1
+2023,5,2023-05-01,Petrópolis,Serrana,5487700,149.5,23.7,4,48,1,Alto,0.72,59.4
+2023,5,2023-05-01,Teresópolis,Serrana,4345751,35.1,24.7,1,11,0,Médio,0.04,70.0
+2023,5,2023-05-01,Nova Friburgo,Serrana,2988039,151.9,24.7,7,89,1,Crítico,0.93,58.3
+2023,5,2023-05-01,Angra dos Reis,Costa Verde,583058,85.7,20.3,1,9,0,Médio,0.44,62.5
+2023,5,2023-05-01,Campos dos Goytacazes,Norte Fluminense,3111771,89.2,23.9,1,5,0,Médio,0.27,65.3
+2023,6,2023-06-01,Rio de Janeiro,Metropolitana,4899035,76.6,22.4,0,0,0,Baixo,0.39,61.8
+2023,6,2023-06-01,Niterói,Metropolitana,1407862,55.2,27.1,0,0,0,Baixo,0.22,66.1
+2023,6,2023-06-01,Nova Iguaçu,Baixada,1014634,83.3,28.2,3,29,0,Alto,0.69,75.4
+2023,6,2023-06-01,Petrópolis,Serrana,3930501,242.8,24.7,13,142,1,Crítico,1.0,64.8
+2023,6,2023-06-01,Teresópolis,Serrana,2862444,107.6,27.6,3,34,0,Alto,0.53,90.9
+2023,6,2023-06-01,Nova Friburgo,Serrana,3090582,158.5,23.8,3,31,0,Alto,0.65,65.8
+2023,6,2023-06-01,Angra dos Reis,Costa Verde,5130743,72.9,25.7,1,4,0,Médio,0.42,79.1
+2023,6,2023-06-01,Campos dos Goytacazes,Norte Fluminense,2617992,86.4,27.7,1,5,0,Médio,0.51,77.1
+2023,7,2023-07-01,Rio de Janeiro,Metropolitana,3458206,106.8,24.8,2,23,0,Médio,0.56,80.1
+2023,7,2023-07-01,Niterói,Metropolitana,5828131,98.6,23.5,6,77,1,Crítico,0.6,57.7
+2023,7,2023-07-01,Nova Iguaçu,Baixada,3052720,30.6,26.9,0,0,0,Baixo,0.39,81.9
+2023,7,2023-07-01,Petrópolis,Serrana,3940277,173.3,23.9,12,117,0,Crítico,0.76,60.7
+2023,7,2023-07-01,Teresópolis,Serrana,476938,89.2,25.3,9,83,0,Crítico,0.53,92.9
+2023,7,2023-07-01,Nova Friburgo,Serrana,5091178,92.0,24.9,4,43,0,Alto,0.39,84.9
+2023,7,2023-07-01,Angra dos Reis,Costa Verde,1780787,120.1,21.9,5,54,0,Alto,0.75,76.5
+2023,7,2023-07-01,Campos dos Goytacazes,Norte Fluminense,4962742,121.9,22.8,3,29,0,Alto,0.58,65.3
+2023,8,2023-08-01,Rio de Janeiro,Metropolitana,6389395,109.0,21.6,2,24,0,Médio,0.49,66.5
+2023,8,2023-08-01,Niterói,Metropolitana,4432769,152.4,22.1,3,26,0,Alto,0.71,85.2
+2023,8,2023-08-01,Nova Iguaçu,Baixada,3487033,75.8,24.8,2,19,0,Médio,0.16,72.5
+2023,8,2023-08-01,Petrópolis,Serrana,725822,113.1,25.5,3,34,0,Alto,0.53,56.2
+2023,8,2023-08-01,Teresópolis,Serrana,5160845,127.8,26.2,5,68,0,Alto,0.53,57.0
+2023,8,2023-08-01,Nova Friburgo,Serrana,5312819,178.3,25.2,11,109,0,Crítico,0.75,75.8
+2023,8,2023-08-01,Angra dos Reis,Costa Verde,3017584,19.1,25.4,0,0,0,Baixo,0.0,86.5
+2023,8,2023-08-01,Campos dos Goytacazes,Norte Fluminense,1600142,65.1,23.4,1,11,0,Médio,0.24,90.6
+2023,9,2023-09-01,Rio de Janeiro,Metropolitana,1426385,100.9,27.1,2,20,0,Médio,0.61,63.8
+2023,9,2023-09-01,Niterói,Metropolitana,3789040,87.8,25.3,3,31,0,Alto,0.33,66.2
+2023,9,2023-09-01,Nova Iguaçu,Baixada,5937833,80.9,25.5,3,20,0,Alto,0.33,78.4
+2023,9,2023-09-01,Petrópolis,Serrana,662374,164.8,26.9,13,109,0,Crítico,0.88,91.8
+2023,9,2023-09-01,Teresópolis,Serrana,5263540,140.5,22.6,5,47,0,Alto,0.55,77.8
+2023,9,2023-09-01,Nova Friburgo,Serrana,4763438,82.0,26.3,4,46,1,Alto,0.44,80.2
+2023,9,2023-09-01,Angra dos Reis,Costa Verde,5958629,115.5,27.9,5,63,0,Alto,0.7,63.6
+2023,9,2023-09-01,Campos dos Goytacazes,Norte Fluminense,6269427,88.2,19.9,0,0,0,Baixo,0.57,90.7
+2023,10,2023-10-01,Rio de Janeiro,Metropolitana,4803941,111.5,26.5,2,13,1,Médio,0.61,67.0
+2023,10,2023-10-01,Niterói,Metropolitana,2966338,125.8,26.6,4,43,0,Alto,0.45,67.3
+2023,10,2023-10-01,Nova Iguaçu,Baixada,2200444,31.1,26.7,0,0,0,Baixo,0.27,83.7
+2023,10,2023-10-01,Petrópolis,Serrana,3757101,112.3,24.7,5,47,0,Alto,0.53,83.6
+2023,10,2023-10-01,Teresópolis,Serrana,4378252,134.9,25.0,3,25,0,Alto,0.67,60.9
+2023,10,2023-10-01,Nova Friburgo,Serrana,4040664,57.7,25.6,1,11,0,Médio,0.06,69.9
+2023,10,2023-10-01,Angra dos Reis,Costa Verde,4970227,116.5,24.9,3,38,0,Alto,0.43,74.6
+2023,10,2023-10-01,Campos dos Goytacazes,Norte Fluminense,4989677,83.3,24.5,5,61,0,Alto,0.42,67.8
+2023,11,2023-11-01,Rio de Janeiro,Metropolitana,5780969,0.0,27.5,0,0,0,Baixo,0.25,68.7
+2023,11,2023-11-01,Niterói,Metropolitana,5346222,134.8,23.2,3,39,0,Alto,0.33,56.8
+2023,11,2023-11-01,Nova Iguaçu,Baixada,4992687,19.7,25.1,0,0,0,Baixo,0.05,57.3
+2023,11,2023-11-01,Petrópolis,Serrana,3006796,101.6,24.9,4,32,0,Alto,0.28,91.2
+2023,11,2023-11-01,Teresópolis,Serrana,1448628,194.1,24.7,14,132,0,Crítico,0.88,60.9
+2023,11,2023-11-01,Nova Friburgo,Serrana,5237073,23.7,23.5,0,0,0,Baixo,0.26,69.1
+2023,11,2023-11-01,Angra dos Reis,Costa Verde,2382822,94.9,20.3,0,0,0,Baixo,0.39,56.9
+2023,11,2023-11-01,Campos dos Goytacazes,Norte Fluminense,6122699,134.4,21.8,2,20,0,Médio,0.52,55.6
+2023,12,2023-12-01,Rio de Janeiro,Metropolitana,6392975,158.2,25.2,3,28,0,Alto,0.69,66.0
+2023,12,2023-12-01,Niterói,Metropolitana,2493075,144.5,20.6,5,69,0,Alto,0.88,77.3
+2023,12,2023-12-01,Nova Iguaçu,Baixada,4909676,258.5,28.9,4,40,0,Alto,1.0,60.1
+2023,12,2023-12-01,Petrópolis,Serrana,5293816,200.5,25.4,14,166,1,Crítico,0.83,63.3
+2023,12,2023-12-01,Teresópolis,Serrana,3785089,245.5,23.8,9,91,0,Crítico,1.0,60.7
+2023,12,2023-12-01,Nova Friburgo,Serrana,4908495,204.9,25.8,13,141,1,Crítico,0.9,66.3
+2023,12,2023-12-01,Angra dos Reis,Costa Verde,2480464,219.7,26.9,13,113,0,Crítico,0.98,80.7
+2023,12,2023-12-01,Campos dos Goytacazes,Norte Fluminense,4952987,184.9,23.4,5,53,0,Alto,0.71,82.1
+2024,1,2024-01-01,Rio de Janeiro,Metropolitana,4335030,92.3,27.7,1,11,0,Médio,0.34,91.1
+2024,1,2024-01-01,Niterói,Metropolitana,3150576,144.7,25.9,9,88,0,Crítico,0.47,82.1
+2024,1,2024-01-01,Nova Iguaçu,Baixada,5362505,195.2,24.7,4,44,0,Alto,0.85,57.0
+2024,1,2024-01-01,Petrópolis,Serrana,1554353,155.5,25.8,6,60,0,Crítico,0.99,81.3
+2024,1,2024-01-01,Teresópolis,Serrana,2224456,254.7,25.0,27,280,2,Crítico,1.0,92.9
+2024,1,2024-01-01,Nova Friburgo,Serrana,5687050,293.8,23.1,17,177,1,Crítico,1.0,57.3
+2024,1,2024-01-01,Angra dos Reis,Costa Verde,4405564,310.2,22.5,10,116,0,Crítico,1.0,86.3
+2024,1,2024-01-01,Campos dos Goytacazes,Norte Fluminense,3716334,128.4,26.0,2,20,0,Médio,0.49,56.2
+2024,2,2024-02-01,Rio de Janeiro,Metropolitana,1261474,233.2,27.5,8,83,0,Crítico,0.93,77.9
+2024,2,2024-02-01,Niterói,Metropolitana,694847,216.2,26.5,4,37,0,Alto,1.0,74.2
+2024,2,2024-02-01,Nova Iguaçu,Baixada,6080384,102.7,24.3,2,18,0,Médio,0.69,56.6
+2024,2,2024-02-01,Petrópolis,Serrana,3079048,119.0,28.7,4,41,0,Alto,0.4,63.5
+2024,2,2024-02-01,Teresópolis,Serrana,1027460,134.1,22.3,8,80,0,Crítico,0.6,76.5
+2024,2,2024-02-01,Nova Friburgo,Serrana,1199194,359.1,26.8,17,154,1,Crítico,1.0,87.6
+2024,2,2024-02-01,Angra dos Reis,Costa Verde,6329928,196.9,24.6,9,108,0,Crítico,0.98,78.0
+2024,2,2024-02-01,Campos dos Goytacazes,Norte Fluminense,4084372,235.3,22.0,10,98,0,Crítico,0.99,83.2
+2024,3,2024-03-01,Rio de Janeiro,Metropolitana,309495,180.9,27.6,6,56,0,Crítico,0.87,85.7
+2024,3,2024-03-01,Niterói,Metropolitana,5430732,224.2,22.9,10,110,1,Crítico,0.86,71.5
+2024,3,2024-03-01,Nova Iguaçu,Baixada,3263673,222.9,23.3,6,71,0,Crítico,1.0,82.7
+2024,3,2024-03-01,Petrópolis,Serrana,2029056,296.1,26.5,14,163,0,Crítico,1.0,64.8
+2024,3,2024-03-01,Teresópolis,Serrana,1225725,237.2,22.7,12,116,1,Crítico,1.0,62.4
+2024,3,2024-03-01,Nova Friburgo,Serrana,2169655,291.9,24.3,20,192,1,Crítico,1.0,67.1
+2024,3,2024-03-01,Angra dos Reis,Costa Verde,3937101,77.9,24.4,1,19,0,Médio,0.5,94.9
+2024,3,2024-03-01,Campos dos Goytacazes,Norte Fluminense,4424145,193.5,25.9,9,89,1,Crítico,1.0,91.1
+2024,4,2024-04-01,Rio de Janeiro,Metropolitana,3129869,10.3,28.9,1,13,0,Médio,0.18,55.7
+2024,4,2024-04-01,Niterói,Metropolitana,3215055,183.3,27.9,3,22,0,Alto,0.71,92.4
+2024,4,2024-04-01,Nova Iguaçu,Baixada,2552708,47.2,22.8,0,0,0,Baixo,0.35,94.6
+2024,4,2024-04-01,Petrópolis,Serrana,3380108,131.8,23.7,7,76,1,Crítico,0.51,56.4
+2024,4,2024-04-01,Teresópolis,Serrana,1109621,70.5,23.4,5,49,1,Alto,0.47,92.7
+2024,4,2024-04-01,Nova Friburgo,Serrana,5488400,129.9,26.0,10,117,0,Crítico,0.67,86.0
+2024,4,2024-04-01,Angra dos Reis,Costa Verde,4524928,115.9,26.1,4,40,0,Alto,0.51,81.9
+2024,4,2024-04-01,Campos dos Goytacazes,Norte Fluminense,3125716,121.6,27.2,1,8,0,Médio,0.64,64.9
+2024,5,2024-05-01,Rio de Janeiro,Metropolitana,1132239,28.1,26.8,1,10,0,Médio,0.34,62.9
+2024,5,2024-05-01,Niterói,Metropolitana,3424040,198.6,26.9,8,73,0,Crítico,0.84,57.9
+2024,5,2024-05-01,Nova Iguaçu,Baixada,1546618,59.5,25.2,3,34,0,Alto,0.33,86.6
+2024,5,2024-05-01,Petrópolis,Serrana,5441011,75.3,21.5,1,9,1,Médio,0.15,66.5
+2024,5,2024-05-01,Teresópolis,Serrana,131272,106.1,24.0,2,23,0,Médio,0.29,85.0
+2024,5,2024-05-01,Nova Friburgo,Serrana,895808,0.0,27.2,0,0,0,Baixo,0.27,73.4
+2024,5,2024-05-01,Angra dos Reis,Costa Verde,4840206,117.5,26.1,5,47,0,Alto,0.63,78.6
+2024,5,2024-05-01,Campos dos Goytacazes,Norte Fluminense,4977273,95.5,24.1,8,80,0,Crítico,0.58,80.1
+2024,6,2024-06-01,Rio de Janeiro,Metropolitana,6048534,136.9,27.6,6,65,2,Crítico,0.69,65.4
+2024,6,2024-06-01,Niterói,Metropolitana,2512613,143.0,26.6,5,52,1,Alto,0.55,72.2
+2024,6,2024-06-01,Nova Iguaçu,Baixada,5630006,95.1,23.2,1,9,0,Médio,0.66,65.9
+2024,6,2024-06-01,Petrópolis,Serrana,3728907,231.5,23.1,30,304,1,Crítico,1.0,68.9
+2024,6,2024-06-01,Teresópolis,Serrana,5922286,121.0,24.1,7,69,0,Crítico,0.49,71.9
+2024,6,2024-06-01,Nova Friburgo,Serrana,1405004,141.5,30.0,5,45,0,Alto,0.54,81.0
+2024,6,2024-06-01,Angra dos Reis,Costa Verde,4561172,155.6,23.0,7,84,1,Crítico,0.52,77.8
+2024,6,2024-06-01,Campos dos Goytacazes,Norte Fluminense,3078266,80.4,25.2,3,22,0,Alto,0.55,92.9
+2024,7,2024-07-01,Rio de Janeiro,Metropolitana,3310017,129.5,25.7,0,0,0,Baixo,0.63,71.8
+2024,7,2024-07-01,Niterói,Metropolitana,1332928,5.3,27.9,0,0,0,Baixo,0.02,62.8
+2024,7,2024-07-01,Nova Iguaçu,Baixada,3789303,68.3,23.7,1,9,0,Médio,0.5,66.0
+2024,7,2024-07-01,Petrópolis,Serrana,3946768,37.0,25.2,2,24,0,Médio,0.12,85.0
+2024,7,2024-07-01,Teresópolis,Serrana,3728862,72.5,28.5,2,22,0,Médio,0.39,69.4
+2024,7,2024-07-01,Nova Friburgo,Serrana,3139792,103.8,24.2,10,95,0,Crítico,0.65,75.8
+2024,7,2024-07-01,Angra dos Reis,Costa Verde,320276,124.5,24.4,2,13,0,Médio,0.5,55.4
+2024,7,2024-07-01,Campos dos Goytacazes,Norte Fluminense,1090557,143.3,28.0,10,103,0,Crítico,0.7,65.6
+2024,8,2024-08-01,Rio de Janeiro,Metropolitana,5889818,128.8,25.0,2,11,0,Médio,0.68,64.3
+2024,8,2024-08-01,Niterói,Metropolitana,3402893,93.3,23.9,2,23,1,Médio,0.55,64.6
+2024,8,2024-08-01,Nova Iguaçu,Baixada,1669175,63.9,26.2,0,0,0,Baixo,0.42,82.4
+2024,8,2024-08-01,Petrópolis,Serrana,2469875,178.8,26.8,7,61,0,Crítico,0.62,90.6
+2024,8,2024-08-01,Teresópolis,Serrana,263916,195.2,24.7,14,136,4,Crítico,0.97,85.8
+2024,8,2024-08-01,Nova Friburgo,Serrana,1440140,135.4,24.7,10,92,0,Crítico,0.6,58.5
+2024,8,2024-08-01,Angra dos Reis,Costa Verde,1249450,137.3,23.8,5,50,0,Alto,0.7,56.7
+2024,8,2024-08-01,Campos dos Goytacazes,Norte Fluminense,1029610,63.1,24.0,2,29,0,Médio,0.41,65.1
+2024,9,2024-09-01,Rio de Janeiro,Metropolitana,4405380,55.6,25.7,1,11,0,Médio,0.44,67.3
+2024,9,2024-09-01,Niterói,Metropolitana,2040691,156.7,22.7,6,59,1,Crítico,0.82,69.7
+2024,9,2024-09-01,Nova Iguaçu,Baixada,2029795,60.0,29.0,1,9,0,Médio,0.39,78.9
+2024,9,2024-09-01,Petrópolis,Serrana,334125,81.3,24.1,6,65,0,Crítico,0.39,91.0
+2024,9,2024-09-01,Teresópolis,Serrana,5223560,186.0,25.5,9,92,0,Crítico,0.83,84.7
+2024,9,2024-09-01,Nova Friburgo,Serrana,4733642,99.4,29.7,6,56,0,Crítico,0.55,77.3
+2024,9,2024-09-01,Angra dos Reis,Costa Verde,2701661,85.9,27.1,0,0,0,Baixo,0.35,92.7
+2024,9,2024-09-01,Campos dos Goytacazes,Norte Fluminense,299908,71.3,21.9,1,11,0,Médio,0.35,81.1
+2024,10,2024-10-01,Rio de Janeiro,Metropolitana,4203860,17.3,24.4,0,0,0,Baixo,0.28,66.8
+2024,10,2024-10-01,Niterói,Metropolitana,5633897,56.6,28.9,0,0,0,Baixo,0.37,73.6
+2024,10,2024-10-01,Nova Iguaçu,Baixada,4752042,93.1,23.2,4,41,0,Alto,0.52,59.9
+2024,10,2024-10-01,Petrópolis,Serrana,5650261,91.5,22.9,6,70,0,Crítico,0.65,60.7
+2024,10,2024-10-01,Teresópolis,Serrana,3402916,106.0,24.7,7,76,0,Crítico,0.43,64.8
+2024,10,2024-10-01,Nova Friburgo,Serrana,3218663,81.3,27.1,5,36,0,Alto,0.48,69.3
+2024,10,2024-10-01,Angra dos Reis,Costa Verde,6325870,172.8,23.1,5,52,0,Alto,0.53,70.9
+2024,10,2024-10-01,Campos dos Goytacazes,Norte Fluminense,520670,177.9,26.7,7,57,1,Crítico,1.0,62.9
+2024,11,2024-11-01,Rio de Janeiro,Metropolitana,873429,61.7,22.4,1,10,0,Médio,0.36,70.4
+2024,11,2024-11-01,Niterói,Metropolitana,1927508,151.0,20.4,1,13,0,Médio,0.83,92.6
+2024,11,2024-11-01,Nova Iguaçu,Baixada,3058541,25.3,23.9,0,0,0,Baixo,0.15,94.1
+2024,11,2024-11-01,Petrópolis,Serrana,5261865,118.3,27.9,7,68,1,Crítico,0.47,56.1
+2024,11,2024-11-01,Teresópolis,Serrana,268605,0.0,27.3,0,0,0,Baixo,0.06,70.3
+2024,11,2024-11-01,Nova Friburgo,Serrana,3752275,35.4,26.3,0,0,0,Baixo,0.14,89.5
+2024,11,2024-11-01,Angra dos Reis,Costa Verde,4468425,87.8,22.0,2,19,0,Médio,0.48,73.4
+2024,11,2024-11-01,Campos dos Goytacazes,Norte Fluminense,4527044,35.0,25.9,3,24,0,Alto,0.25,68.0
+2024,12,2024-12-01,Rio de Janeiro,Metropolitana,5965204,222.6,26.8,6,47,1,Crítico,1.0,67.0
+2024,12,2024-12-01,Niterói,Metropolitana,3624558,250.9,20.5,6,44,0,Crítico,0.94,92.9
+2024,12,2024-12-01,Nova Iguaçu,Baixada,2358133,229.5,29.8,9,92,0,Crítico,0.83,61.6
+2024,12,2024-12-01,Petrópolis,Serrana,3020384,216.0,23.6,13,146,1,Crítico,1.0,83.9
+2024,12,2024-12-01,Teresópolis,Serrana,4210692,162.2,23.3,13,130,1,Crítico,0.6,84.7
+2024,12,2024-12-01,Nova Friburgo,Serrana,1543056,317.5,22.5,18,212,2,Crítico,1.0,82.2
+2024,12,2024-12-01,Angra dos Reis,Costa Verde,6256516,184.0,26.1,6,58,1,Crítico,0.72,69.3
+2024,12,2024-12-01,Campos dos Goytacazes,Norte Fluminense,325151,131.4,24.8,5,60,1,Alto,0.63,72.2
