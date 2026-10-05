@@ -11,9 +11,9 @@ Projeto da **Avaliação G1** — **Linguagem de Programação**: Análise e Vis
 
 | Entrega | Link |
 |---|---|
-| Repositório (código-fonte) | `https://github.com/SEU_USUARIO/projeto-chuvas-deslizamentos-rj` |
-| Página do projeto (GitHub Pages) | `https://SEU_USUARIO.github.io/projeto-chuvas-deslizamentos-rj/` |
-| Dashboard (Streamlit Community Cloud) | `https://SEU-APP.streamlit.app` |
+| Repositório (código-fonte) | `https://github.com/LucasQueiroz2/projeto-chuvas-deslizamentos-rj` |
+| Página do projeto (GitHub Pages) | `https://LucasQueiroz2.github.io/projeto-chuvas-deslizamentos-rj/` |
+| Dashboard (Streamlit Community Cloud) | `https://projeto-chuvas-deslizamentos-rj-63dn5eyvmxc6mxezoxtzck.streamlit.app/` |
 | Notebook | [`notebooks/analise_chuvas_deslizamentos.ipynb`](notebooks/analise_chuvas_deslizamentos.ipynb) |
 
 ## 1. O problema
