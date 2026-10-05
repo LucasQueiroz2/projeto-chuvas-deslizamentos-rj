@@ -72,7 +72,7 @@ HTML = f"""<!DOCTYPE html>
 <nav><ul>
   <li><a href="#problema">Problema</a></li><li><a href="#base">Base</a></li><li><a href="#kpis">KPIs</a></li>
   <li><a href="#graficos">Gráficos</a></li><li><a href="#achados">Resultados</a></li><li><a href="#tecnologias">Tecnologias</a></li>
-  <li><a href="#estrutura">Estrutura</a></li><li><a href="#executar">Como executar</a></li>
+
 </ul></nav>
 
 <main>
@@ -158,7 +158,7 @@ HTML = f"""<!DOCTYPE html>
 </section>
 
 <section id="executar">
-  <h2>Como executar</h2>
+
 <pre>git clone https://github.com/SEU_USUARIO/projeto-chuvas-deslizamentos-rj.git
 cd projeto-chuvas-deslizamentos-rj
 pip install -r requirements.txt
