@@ -1,8 +1,4 @@
-"""
-app.py — Dashboard Streamlit: Chuvas e Deslizamentos no Estado do Rio de Janeiro (2015–2024).
 
-Executar localmente:  streamlit run app.py
-"""
 from __future__ import annotations
 
 import io

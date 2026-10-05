@@ -1,9 +1,4 @@
-"""
-interpretacao.py — textos analíticos gerados a partir dos dados filtrados.
 
-Os números das interpretações vêm do próprio recorte selecionado no dashboard,
-então o texto nunca fica desatualizado em relação aos gráficos.
-"""
 from __future__ import annotations
 
 import numpy as np

@@ -1,9 +1,4 @@
-"""
-utils.py — funções de apoio do projeto (dados, KPIs, estatística, API e gráficos).
 
-Mantém a lógica de análise separada da interface (app.py), o que facilita
-testar, reutilizar no notebook e organizar o projeto.
-"""
 from __future__ import annotations
 
 from pathlib import Path
@@ -13,9 +8,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-# ----------------------------------------------------------------------------
-# Constantes
-# ----------------------------------------------------------------------------
+
 RAIZ = Path(__file__).resolve().parent
 CAMINHO_CSV = RAIZ / "dados" / "simulacao_chuvas_deslizamentos_rj.csv"
 
@@ -33,7 +26,7 @@ LIMIAR_SOLO_SATURADO = 0.8     # índice de saturação do solo
 NOMES_MESES = {1: "Jan", 2: "Fev", 3: "Mar", 4: "Abr", 5: "Mai", 6: "Jun",
                7: "Jul", 8: "Ago", 9: "Set", 10: "Out", 11: "Nov", 12: "Dez"}
 
-# Coordenadas aproximadas (centro urbano) — usadas no mapa e na consulta à API de chuva real
+
 COORDENADAS = {
     "Rio de Janeiro": (-22.9068, -43.1729),
     "Niterói": (-22.8832, -43.1034),
@@ -86,9 +79,6 @@ def _loc(texto: str) -> str:
     return texto.replace(",", "§").replace(".", ",").replace("§", ".")
 
 
-# ----------------------------------------------------------------------------
-# Leitura, limpeza e engenharia de atributos
-# ----------------------------------------------------------------------------
 def carregar_csv(fonte=CAMINHO_CSV) -> pd.DataFrame:
     """Lê o CSV bruto (caminho ou arquivo em memória)."""
     return pd.read_csv(fonte, encoding="utf-8-sig")
@@ -120,17 +110,15 @@ def preparar(df_bruto: pd.DataFrame) -> pd.DataFrame:
     """Limpa tipos/textos e cria as variáveis derivadas usadas na análise."""
     df = df_bruto.copy()
 
-    # 1) Padronização de textos
+  
     for col in ["municipio", "regiao_rj", "nivel_risco"]:
         df[col] = df[col].astype(str).str.strip()
 
-    # 2) Conversão de tipos
     df["data"] = pd.to_datetime(df["data"], errors="coerce")
     for col in ["ano", "mes", "populacao", "chuva_mm", "temperatura_media", "ocorrencias_deslizamento",
                 "desalojados", "obitos", "indice_solo", "umidade"]:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
-    # 3) Valores nulos, duplicados e valores impossíveis
     df = df.dropna(subset=["data", "ano", "mes", "municipio", "chuva_mm", "ocorrencias_deslizamento"])
     df = df.drop_duplicates()
     df = df[(df["chuva_mm"] >= 0) & (df["ocorrencias_deslizamento"] >= 0)]
@@ -140,7 +128,6 @@ def preparar(df_bruto: pd.DataFrame) -> pd.DataFrame:
         df[col] = df[col].fillna(0).astype(int)
     df["indice_solo"] = df["indice_solo"].clip(0, 1)
 
-    # 4) Engenharia de atributos
     df["mes_nome"] = df["mes"].map(NOMES_MESES)
     df["trimestre"] = ((df["mes"] - 1) // 3 + 1).astype(int)
     df["estacao"] = pd.Categorical(
@@ -157,7 +144,6 @@ def preparar(df_bruto: pd.DataFrame) -> pd.DataFrame:
     df["desalojados_por_ocorrencia"] = np.where(
         df["ocorrencias_deslizamento"] > 0, df["desalojados"] / df["ocorrencias_deslizamento"].replace(0, np.nan), np.nan)
 
-    # Ocorrências esperadas pela chuva (reta ajustada em toda a base) e resíduo
     reta = reta_ajuste(df, "chuva_mm", "ocorrencias_deslizamento")
     a, b = reta if reta is not None else (0.0, df["ocorrencias_deslizamento"].mean())
     df["ocorrencias_esperadas"] = (a * df["chuva_mm"] + b).clip(lower=0)
@@ -181,9 +167,6 @@ def filtrar(df, anos=None, meses=None, municipios=None, regioes=None, niveis=Non
     return df[mask]
 
 
-# ----------------------------------------------------------------------------
-# Estatística
-# ----------------------------------------------------------------------------
 def classificar_forca(r: float) -> str:
     """Traduz o coeficiente de correlação em texto."""
     if r is None or np.isnan(r):
@@ -357,9 +340,6 @@ def resumo_alerta(df: pd.DataFrame) -> dict:
     }
 
 
-# ----------------------------------------------------------------------------
-# KPIs e séries temporais
-# ----------------------------------------------------------------------------
 def calcular_kpis(df: pd.DataFrame) -> dict | None:
     """KPIs do recorte atual. Retorna None se não houver dados."""
     if df.empty:
@@ -419,9 +399,7 @@ def matriz_correlacao(df: pd.DataFrame) -> pd.DataFrame:
     return c
 
 
-# ----------------------------------------------------------------------------
-# Fonte externa: API Open-Meteo (chuva observada) — não exige chave
-# ----------------------------------------------------------------------------
+
 URL_API_CHUVA = "https://archive-api.open-meteo.com/v1/archive"
 
 
@@ -471,9 +449,6 @@ def comparar_com_api(df: pd.DataFrame, real: pd.DataFrame) -> dict:
     return {"sazonal": sazonal, "anual": anual, "r": cor["r"], "p": cor["p"], "n": cor["n"]}
 
 
-# ----------------------------------------------------------------------------
-# Gráficos (Matplotlib / Seaborn) — todos retornam uma Figure
-# ----------------------------------------------------------------------------
 def _formatar(ax, titulo, xlabel, ylabel):
     ax.set_title(titulo)
     ax.set_xlabel(xlabel)
@@ -655,9 +630,6 @@ def fig_api_sazonal(sazonal, titulo="Perfil sazonal: chuva simulada x observada 
     return fig
 
 
-# ----------------------------------------------------------------------------
-# Gráficos interativos (Plotly) — importados só quando usados
-# ----------------------------------------------------------------------------
 def plotly_serie(df, coluna, agg, ylabel, por=None, janela=3):
     """Linha temporal interativa (média móvel)."""
     import plotly.express as px

@@ -1,14 +1,4 @@
-"""
-database/db.py — persistência em banco de dados (SQLAlchemy + SQLite).
 
-Modelo relacional:
-
-    regioes (id_regiao PK, nome)
-    municipios (id_municipio PK, nome, id_regiao FK -> regioes, latitude, longitude)
-    registros (id PK, data, ano, mes, id_municipio FK -> municipios, populacao, chuva_mm, ...)
-    chuva_api (id_municipio FK, ano, mes, chuva_real_mm)   <- dados da API Open-Meteo
-    vw_registros -> view que junta tudo numa tabela "larga" para análise
-"""
 from __future__ import annotations
 
 import contextlib
@@ -20,14 +10,12 @@ import pandas as pd
 
 import utils
 
-# SQLAlchemy é o motor principal. Se ele não puder ser carregado (por exemplo, uma política de
-# segurança do Windows que bloqueia a extensão compilada), o projeto continua funcionando com o
-# módulo `sqlite3` da biblioteca padrão do Python, usando o MESMO arquivo de banco e as mesmas tabelas.
+
 try:
     from sqlalchemy import create_engine, text
 
     MOTOR = "SQLAlchemy + SQLite"
-except Exception:  # ImportError, OSError (DLL bloqueada) etc.
+except Exception:  
     MOTOR = "sqlite3 (alternativa: SQLAlchemy indisponível neste computador)"
 
     class _ConexaoSqlite(sqlite3.Connection):
@@ -108,7 +96,7 @@ DDL_CRIAR = [
        JOIN regioes g    ON g.id_regiao = m.id_regiao""",
 ]
 
-# Consultas prontas exibidas no dashboard (aba "Tabelas e SQL")
+
 CONSULTAS_PRONTAS = {
     "Total de deslizamentos por município": """SELECT municipio, regiao_rj,
        SUM(ocorrencias_deslizamento) AS deslizamentos,

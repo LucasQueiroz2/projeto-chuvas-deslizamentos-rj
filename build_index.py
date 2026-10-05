@@ -1,4 +1,4 @@
-"""Gera o index.html (página do projeto para o GitHub Pages) com os números calculados a partir da base."""
+
 import utils
 from utils import br
 
